@@ -1,0 +1,1305 @@
+[
+    {
+        "id": 1,
+        "proverb": "K\u00ed \u00e8\u00e8m\u1ecd\u0300 w\u1ecdl\u00e9, k\u00ed aj\u00e1 m\u00e1\u00e0 gb\u00f3, gbogbo aj\u00e1 k\u1ecd\u0301 lara \u1eb9\u0300 l\u00e9 gb\u00e0 \u00e1.",
+        "translation": "Not all dogs can be quiet and not bark in the face of a strange act.",
+        "wisdom": "People are different; you can't paint everyone with the same brush."
+    },
+    {
+        "id": 2,
+        "proverb": "P\u00e9 a l\u00e1gb\u00e1ra b\u00ed \u00f2m\u00ecr\u00e1n, \u00ecy\u1eb9n \u00f2 n\u00ed k\u00ed a j\u00e0 b\u00ed \u00f2m\u00ecr\u00e1n.",
+        "translation": "That you are as powerful as a giant, does not imply that you should fight like one.",
+        "wisdom": "Be tempered: just because you can, does not mean you should; cooler heads should always prevail."
+    },
+    {
+        "id": 3,
+        "proverb": "K\u00f2k\u00f2r\u00f2 t\u00f3 \u0144j\u00f3 l\u1eb9\u0301\u1eb9\u0300b\u00e1 \u1ecd\u0300n\u00e0, on\u00edl\u00f9 r\u1eb9\u0300 \u0144b\u1eb9 n\u00edn\u00fa igb\u00f3.",
+        "translation": "The insect that is dancing by the bush path has its drummer right in the forest.",
+        "wisdom": "Things are often not quite as they appear; don't jump to conclusions before thorough and critical reviews."
+    },
+    {
+        "id": 4,
+        "proverb": "\u00ccj\u00ec lay\u00e9; t\u00f3 b\u00e1 f\u00ec s\u00edw\u00e1j\u00fa, \u00e1 t\u00fan f\u00ec s\u1eb9\u0301h\u00ecn ni.",
+        "translation": "Life is a storm; if it blows forward, it will blow backward, as well.",
+        "wisdom": "A season goes, another comes; no condition is permanent; nothing lasts forever; keep hope alive."
+    },
+    {
+        "id": 5,
+        "proverb": "\u1eb8ni t\u00f3 m\u00fa i\u1e63\u1eb9\u0301 j\u1eb9, \u00f2 l\u00e8 m\u00fa \u00ec\u1e63\u1eb9\u0301 j\u1eb9.",
+        "translation": "Whoever got away with indolence, cannot get away with poverty.",
+        "wisdom": "Diligence pays."
+    },
+    {
+        "id": 6,
+        "proverb": "\u1eccl\u1ecd\u0301run k\u00ec \u00ed \u1e63e n\u01f9kan, k\u00f3 m\u00e1 fi \u00e0y\u00e8 \u1ecdp\u1eb9\u0301 s\u00ed i; t\u00f3 b\u00e1 p\u00e1 baba l\u00f3r\u00ed, a s\u00ec fi ir\u00f9ngb\u1ecd\u0300n r\u1ecd\u0301p\u00f2.",
+        "translation": "God never does anything, without the rationale for thanksgiving; if he makes a man bald, he'll give the beard in replacement.",
+        "wisdom": "We'll always have reasons to be thankful to God."
+    },
+    {
+        "id": 7,
+        "proverb": "\u1eccm\u1ecdd\u00e9 k\u00e9ker\u00e9 \u00f2 m\u1ecd ogun, \u00f3 n\u00ed k'\u00f3gun \u00f3 w\u00e1, \u00f3 n\u00ed b'\u00f3g\u00fan b\u00e1 d\u00e9, \u00f2un a k\u00f3 s'\u00edy\u00e0r\u00e1 \u00ecy\u00e1 \u00f2un.",
+        "translation": "A youngster, naive about wars, beckons on it, stating that once war comes, he/she will hide in his/her mother's room.",
+        "wisdom": "Naivety can be costly."
+    },
+    {
+        "id": 8,
+        "proverb": "B\u00e1a g\u00fan iy\u00e1n, t\u00e1a ro \u1ecdk\u00e0 f\u00fan k\u00f2f\u1eb9\u200ck\u00f2gb\u00e0, k\u00f2 n\u00ed f\u1eb9\u200c, k\u00f2 n\u00ed gb\u00e0, n\u00e1\u00e0 ni.",
+        "translation": "Even if you pound yam and prepare yam flour meal for a cantankerous person, he or she will yet remain cantankerous.",
+        "wisdom": "Be forward-looking, be positive; do your best and keep moving."
+    },
+    {
+        "id": 9,
+        "proverb": "T\u00ed nani-nani b\u00e1 \u0144nani, t\u00ed gbani-gbani k\u1ecd\u0300 t\u00ed k\u00f2 gbani, \u00e1 j\u1eb9\u0301 p\u00e9 gbani-gbani  l\u00f3 n\u00ed k\u00ed nani-nani m\u00e1a nani.",
+        "translation": "If the beater, beats one, but the deliverer refuses to deliver one, the beating must have been endorsed by the deliverer.",
+        "wisdom": "Don't be naive; look beyond the obvious."
+    },
+    {
+        "id": 10,
+        "proverb": "B\u00ed \u1eb9\u0300d\u00e1 b\u00e1 f\u1eb9\u0301 gba \u00e0w\u00ecn \u1eb9\u0300b\u00e0, ni w\u1ecd\u0301n m\u00e1a \u0144\u1e63e oj\u00fa \u00e0\u00e1n\u00fa; t\u00ed w\u1ecd\u0301n b\u00e1 y\u00f3 t\u00e1n, w\u1ecd\u0301n \u00e1 di \u1ecdk\u1ecd ol\u00fawa w\u1ecdn.",
+        "translation": "People present a facade of humility when seeking favour, but easily lord it over their benefactors, once satisfied.",
+        "wisdom": "We cannot claim to truly know anyone, deep down."
+    },
+    {
+        "id": 11,
+        "proverb": "\u00d2j\u00f2 \u00f2 b\u00e1 \u1eb9n\u00eckan \u1e63\u1ecd\u0300t\u00e1; \u1eb9ni ej\u00ed r\u00ed leji \u0144pa.",
+        "translation": "The rain holds enmity with no one; it beats anyone within it's area of coverage.",
+        "wisdom": "Discriminate against no one."
+    },
+    {
+        "id": 12,
+        "proverb": "\u1eb8ni t\u00f3 \u0144gun \u1eb9\u1e63in, k\u00f3 s\u1ecd \u00ecp\u00e0k\u1ecd\u200c m\u1ecd n\u00ed'w\u1ecd\u200cn; \u00ecb\u1eb9\u200ck\u1eb9\u200c\u1e63\u1eb9\u200c \u1eb9\u1e63in \u00e1 m\u00e1a la\u2019ni m\u1ecd\u200c\u2019l\u1eb9\u200c.",
+        "translation": "When on a horse, fling your head backward with restraint; horses with sudden jump often throw riders.",
+        "wisdom": "Never abuse privileges: exercise self-control; safeguards against abuse do exist."
+    },
+    {
+        "id": 13,
+        "proverb": "B\u00e1a g\u00fan ata \u0144n\u00fa od\u00f3, b\u00e1a l\u1ecd\u0300 \u1ecd\u0301 l\u00f3r\u00ed \u1ecdl\u1ecd, iwa ata \u00f2 n\u00ed fi ata s\u00edl\u1eb9\u0300.",
+        "translation": "Whether pounded in a mortar or ground on a grinding stone, pepper would remain inseparable from its character.",
+        "wisdom": "We can hardly pretend to be who we are not for long: with time, who we really are will show through."
+    },
+    {
+        "id": 14,
+        "proverb": "\u00c0m\u00f3j\u00fak\u00far\u00f2 ni \u00ed m\u00fa \u1eb9\u0300m\u00ed \u00ecf\u1eb9\u0301 g\u00f9n.",
+        "translation": "Willingness to overlook is what makes loving relationships endure.",
+        "wisdom": "No one is perfect; tolerance is crucial. Happy Valentine Day to everyone."
+    },
+    {
+        "id": 15,
+        "proverb": "\u00ccw\u00e0 rere l\u1eb9\u0300\u1e63\u1ecd\u0301 \u00e8n\u00ecy\u00e0n.",
+        "translation": "Good character is what adorns a man.",
+        "wisdom": "Good character beautifies; it is attractive and adorable."
+    },
+    {
+        "id": 16,
+        "proverb": "B\u00ed a b\u00e1 n\u00ed k\u00e1 dij\u00fa k\u00ed \u1eb9ni bur\u00fak\u00fa k\u1ecdj\u00e1, a k\u00f2 n\u00ed m\u1ecd \u00ecgb\u00e0 t\u00ed \u1eb9ni rere m\u00e1a l\u1ecd.",
+        "translation": "If we were to close our eyes so we would not see a wicked person pass by, we may miss a good person as well.",
+        "wisdom": "Be forward-looking; vidictiveness can be costly."
+    },
+    {
+        "id": 17,
+        "proverb": "A k\u00ec \u00ed gb\u1ecd\u200c k\u00fak\u00f9 \u00f2j\u00f2 da omi agbada n\u00f9.*",
+        "translation": "Never pour away the water in your trough on the rumbling of the cloud.",
+        "wisdom": "Don't be presumptuous; never count your chickens before they are hatched."
+    },
+    {
+        "id": 18,
+        "proverb": "K\u00f2 s\u00ed \u1eb9ni t\u00f3 m\u00e1a gun \u1eb9\u1e63in, t\u00ed k\u00f2 n\u00ed ju \u00ecp\u00e0k\u1ecd\u0301, t\u00ed k\u00f2 b\u00e1 fe\u0323\u0301e\u0323\u0301 j\u00f9\u00fa, \u1eb9\u1e63in t\u00f3 \u0144g\u00f9n a je\u0323\u0301 k\u00f3 j\u00f9\u00fa.",
+        "translation": "No one will ride a horse and not fling his head backward; even if he/she doesn't want to, the horse will make him/her do it. ",
+        "wisdom": "Be tolerant; our attitudes are quite often compelled by our peculiar circumstances."
+    },
+    {
+        "id": 19,
+        "proverb": "Ak\u00e8r\u00e8gb\u00e8 ni y\u00f3\u00f2 j\u00fawe ibi t\u00ed w\u00f3n m\u00e1a fi ok\u00f9n s\u00ed l\u00e1ra r\u1eb9\u0300.",
+        "translation": "It's the gourd itself that will indicate where on its body the rope (to carry it) should be affixed.",
+        "wisdom": "People themselves will indicate to you how you should treat them; and when they do, believe them."
+    },
+    {
+        "id": 20,
+        "proverb": "\u00c0\u00e0r\u00f2 k\u00ec \u00ed gb\u00f3n\u00e1 t\u00edt\u00ed k\u00f3 m\u00e1 tut\u00f9.",
+        "translation": "No matter how long the fireplace has been hot, it will become cold eventually.",
+        "wisdom": "Whatever is hot today, will one day become cold; tough times won't last forever; keep hope alive; it's not over yet."
+    },
+    {
+        "id": 21,
+        "proverb": "\u1eccl\u1ecd\u0301run t\u00f3 \u0144se \u1ecdb\u1eb9\u0300, k\u00f2 k\u00far\u00f2 n\u00ed \u00ecd\u00ed \u00e0\u00e0r\u00f2.",
+        "translation": "God who is cooking the soup, has not left the kitchen.",
+        "wisdom": "Never lose hope; nothing is beyond God."
+    },
+    {
+        "id": 22,
+        "proverb": "\u1eb8ni s\u1ecd\u0300r\u1ecd\u0300 p\u00fap\u1ecd\u0300 y\u00f3 \u1e63\u00ecs\u1ecd; \u00e0s\u1ecdj\u00f9 l\u00f3 \u0144m\u00fa \u00ecy\u00e1 \u1ecdba pe ara r\u1eb9\u0300 n\u00ed \u00ecy\u00e1 \u1ecd\u0300b\u1ecd.",
+        "translation": "Whoever talks inordinately will misspeak; inordinate talk made the king's mother (inadvertently) referred to herself as the mother of monkeys.",
+        "wisdom": "[Moderation is crucial; exercise self-control, always]"
+    },
+    {
+        "id": 23,
+        "proverb": "\u00c0\u00e0t\u00e0n t\u00ed k\u00f2 b\u00e1 gba \u1eb9\u0300gbin, k\u00f2 n\u00ed k\u00fan b\u1ecd\u0300r\u1ecd\u0300.",
+        "translation": "A dunghill that's intolerant of filth won't be filled up easily.",
+        "wisdom": "Intolerance imposes limitations"
+    },
+    {
+        "id": 24,
+        "proverb": "\u1eb8ran t\u00ed a k\u00f2 b\u00e1 ni \u00ed j\u1eb9, a k\u00ec \u00ed fi ey\u00edn d\u00e1n an w\u00f2.",
+        "translation": "Stop taking nips at a piece of meat that you have no intention of eating.",
+        "wisdom": "Don't start what you won't finish; finish whatever you start."
+    },
+    {
+        "id": 25,
+        "proverb": "\u1eccba t\u00ed k\u00ec \u00ed f\u1eb9\u0301 gba \u00ecm\u1ecd\u0300r\u00e0n, ir\u00fa w\u1ecdn k\u00ec \u00ed p\u1eb9\u0301 fi \u1eb9s\u1eb9\u0300 k\u1ecd.",
+        "translation": "Any king who is reluctant to taking advices, hardly takes long before stumbling.",
+        "wisdom": "Be smart: seek and treasure good counsels; to spurn such is to expose oneself to avoidable errors."
+    },
+    {
+        "id": 26,
+        "proverb": "I\u1e63u \u1eb9ni k\u00ec \u00ed fi'ni pe \u1ecdm\u1ecdd\u00e9, k\u00f3 m\u00e1 ta.",
+        "translation": "A yam plant cannot refuse to grow well, simply because the farmer (planter) is too young.",
+        "wisdom": "Age is no barrier to success; impossibility is a figment."
+    },
+    {
+        "id": 27,
+        "proverb": "T\u00ed a b\u00e1 fi og\u00fan \u1ecdd\u00fan \u1e63\u00e1n'p\u00e1, \u1ecdd\u00fan wo la \u00f3 f\u00f2?",
+        "translation": "If we flap arms for twenty years, when are we going to fly? ",
+        "wisdom": "Make hay while the sun shines; promptly exploit opportunities."
+    },
+    {
+        "id": 28,
+        "proverb": "Igi t\u00ed \u1eccl\u1ecd\u0301run b\u00e1 gb\u00ecn, k\u00f2 s\u1eb9\u0301ni t\u00f3 l\u00e8 f\u00e0\u00e1 tu",
+        "translation": "No man can uproot a tree planted by God.",
+        "wisdom": "IIf it is from God, it is assured; His blessing is everlasting]"
+    },
+    {
+        "id": 29,
+        "proverb": "O j\u00f3 n\u00ed'f\u1ecd\u200cn, If\u1ecd\u200cn t\u00fa; o j\u00f3 l'\u00c8j\u00ecgb\u00f2, \u00c8j\u00ecgb\u00f2 f\u00e0 ya b\u00ed a\u1e63\u1ecd; o w\u00e1 d\u00e9 \u1ecc\u200cr\u00e0ng\u00fan o t\u00fan \u0144j\u00f9d\u00ed; \u1e63\u00e9 gbogbo \u00ecl\u00fa lo f\u1eb9\u200c b\u00e0j\u1eb9\u200c ni?",
+        "translation": "Your dance desolated Ifon & shredded Ejigbo like clothes; yet at Orangun you were twerking your hips; must you destroy all towns?",
+        "wisdom": "Decrying notoriety: be a better version of yourself."
+    },
+    {
+        "id": 30,
+        "proverb": "Gb\u00f3l\u00f3h\u00f9n kan l\u00e8 ba \u1ecd\u0300r\u1ecd\u0300 j\u1eb9\u0301; gb\u00f3l\u00f3h\u00f9n kan n\u00e1\u00e0 l\u00e8 t\u00fan \u1ecd\u0300r\u1ecd\u0300 \u1e63e.",
+        "translation": "One sentence can mess up a discussion and one sentence can make it better.",
+        "wisdom": "Words are powerful: they can build up and can pull down; use them wisely."
+    },
+    {
+        "id": 31,
+        "proverb": "Or\u00ed b\u00edb\u1eb9\u0301 k\u1ecd\u0301 lo\u00f2g\u00f9n or\u00ed f\u00edf\u1ecd\u0301.",
+        "translation": "Decapitation is not the antidote for headache.",
+        "wisdom": "Moderation is it; adopt radical measures with caution."
+    },
+    {
+        "id": 32,
+        "proverb": "Ohun t\u00f3 \u1e63e \u00e0k\u00e0l\u00e0m\u00e0gb\u00f2 t\u00f3 fi d\u1eb9\u200ckun \u1eb9\u200crin r\u00ednr\u00edn, t\u00f3 b\u00e1 \u1e63e ig\u00fannug\u00fan, \u00e1 wokoko m\u00f3r\u00ed \u1eb9yin ni.",
+        "translation": "If what took laughter away from the crow had befallen the vulture, it would have been stuck brooding on its eggs.",
+        "wisdom": "Be tolerant; different stroke for different folks."
+    },
+    {
+        "id": 33,
+        "proverb": "\u1ecc\u200cd\u00f9nk\u00fan \u00ec b\u00e1\u00e0 m\u1ecd t\u00ed\u0144t\u00edn, dandan ni k\u00f3 d\u00f9n d\u00e9'l\u1eb9\u200c.",
+        "translation": "Even if sweet potato is just a tiny bit, it certainly must be sweet, all through.",
+        "wisdom": "We remain true to who we really are deep down, ultimately; we can hardly pretend to be who we are not for long."
+    },
+    {
+        "id": 34,
+        "proverb": "\u1eb8y\u00ecn t\u00ed y\u00f3\u00f2 di epo, y\u00f3\u00f2 t\u1ecd\u200c in\u00e1 w\u00f2.",
+        "translation": "A palm nut that desires to become palm oil will have a taste of fire.",
+        "wisdom": "There's always a price tag; good things do not always come easy; no pain, no gain."
+    },
+    {
+        "id": 35,
+        "proverb": "Ew\u00e9 kan k\u00ec \u00ed b\u1ecd\u0301 l\u00e1ra igi, k\u00ed \u1eccl\u1ecd\u0301run \u1eccba m\u00e1 m\u1ecd\u0300.",
+        "translation": "No leaf drops off a tree without God's foreknowledge.",
+        "wisdom": "Nothing surprises God; nothing is beyond Him; lean on Him."
+    },
+    {
+        "id": 36,
+        "proverb": "As\u00fa\u00f9f\u00e9 ya \u00e0gb\u00e0do; \u00f3 f'oj\u00fa j\u1ecd ol\u00e8, \u00f3 f'oj\u00fa j\u1ecd ol\u00f3k\u00f3.",
+        "translation": "The one who harvests corn in a farm whistling (carefreely), could very well be the farm owner and could very well be a thief.",
+        "wisdom": "Appearance can be deceptive; look beyond the obvious."
+    },
+    {
+        "id": 37,
+        "proverb": "\u00c0pa \u00e0\u00edm\u00fa d\u00e9l\u00e9 ni k\u00f2 j\u1eb9\u0301 k\u00ed a m\u1ecd\u0300 p\u00e9 ol\u00f3gb\u00f2 \u0144se \u1ecdd\u1eb9.",
+        "translation": "Its penchant for not bringing home its games, is why the cat is not known for hunting.",
+        "wisdom": "Be strategic; don't eat your future; don't sacrifice it for the present."
+    },
+    {
+        "id": 38,
+        "proverb": "A k\u00ec \u00ed m\u1ecd ibi t\u00ed \u00e0 \u0144l\u1ecd k\u00ed \u1ecdr\u00f9n \u00f3 w\u1ecd'ni.",
+        "translation": "One can't be certain of one's destination and yet be weighed down by the load carried.",
+        "wisdom": "Clear definition of goals makes their achievement less stressful: seek and foster clarity."
+    },
+    {
+        "id": 39,
+        "proverb": "\u00c0t\u00f9p\u00e0 k\u00ec \u00ed n\u00edy\u00ec l\u1ecd\u200c\u1ecd\u200cs\u00e1n, \u1e63\u00f9gb\u1ecd\u200cn a m\u00e1a gba'y\u00ec l\u1ecd\u200cj\u1ecd\u200c al\u1eb9\u200c.",
+        "translation": "A lamp is not valued in the afternoons, but does get appreciated at night.",
+        "wisdom": "There's always a right time and place for everything; solutions are most appreciated during tough times."
+    },
+    {
+        "id": 40,
+        "proverb": "Ibi t\u00ed \u00e0 \u0144l\u1ecd l\u00e0 \u0144w\u00f2, a k\u00ec \u00ed wo ibi t\u00ed a ti \u1e63ub\u00fa.",
+        "translation": "Be focused on where you are going, not where.you had fallen (in the past).",
+        "wisdom": "Be forward-looking; leave the past where it belongs: in the past.]"
+    },
+    {
+        "id": 41,
+        "proverb": "Ad\u00e1niw\u00e1y\u00e8 \u00f2 gb\u00e0gb\u00e9 \u1eb9n\u00eckan; \u00e0\u00ecm\u00e0s\u00eck\u00f2 l\u00f3 \u0144d\u00e0\u00e0m\u00fa \u1eb9\u0300d\u00e1. ",
+        "translation": "God  hasn't forgotten anyone; ignorance of divine timing is what makes us fret. ",
+        "wisdom": "Keep hope alive; don't give up."
+    },
+    {
+        "id": 42,
+        "proverb": "\u1eb8ni t\u00f3 \u0144b\u1eb9 \u1eccl\u1ecd\u0301run k\u00ec \u00ed b\u1eb9 \u00e8y\u00e0n",
+        "translation": "Those who plead their cases with God, seldom need to plead with man.",
+        "wisdom": "God is dependable and nothing is beyond Him; you can count on Him."
+    },
+    {
+        "id": 43,
+        "proverb": "\u00c0 fi \u1eb9ni t\u00ed y\u00f3\u00f2 b\u00e1 p\u1eb9\u0300g\u00e0n \u00c0j\u00e0n\u00e0k\u00fa, l\u00e1 l\u00f3un r\u00ed n\u01f9kan f\u00ecr\u00ed; b\u00e1a b\u00e1 r\u00ed erin k\u00e1 w\u00ed.",
+        "translation": "Only those who would deride the elephant would claim they saw it in a jiffy; its presence is unmistakable. ",
+        "wisdom": "Give credit where credit is due; deride no one."
+    },
+    {
+        "id": 44,
+        "proverb": "K\u00ed a fi g\u00e8g\u00e9 g\u00fan ara \u1eb9ni w\u00f2, k\u00ed a t\u00f3 fi g\u00fan \u1ecdm\u1ecd \u1eb9y\u1eb9.",
+        "translation": "Prick yourself with the (sharp) penpoint first, before trying it on a bird.",
+        "wisdom": "Be fair; don't impose on anyone what you are unwilling to impose on yourself; do unto others as you'd have them do unto you."
+    },
+    {
+        "id": 45,
+        "proverb": "\u00c0\u00e0r\u00f2 k\u00ec \u00ed gb\u00f3n\u00e1 t\u00edt\u00ed k\u00f3 m\u00e1\u00e0 tut\u00f9.",
+        "translation": "No matter how long the hearth gets hot, it will become cold eventually.",
+        "wisdom": "Whatever is hot will one day become cold; whatever has a beginning will have an ending: nothing lasts forever: change is certain; keep hope alive."
+    },
+    {
+        "id": 46,
+        "proverb": "Og\u00fan \u1ecdm\u1ecdd\u00e9 \u00f2 l\u00e8 \u1e63er\u00e9 f\u00fan og\u00fan \u1ecdd\u00fan; \u1ecdgb\u1ecd\u0300n \u00e0gb\u00e0 \u00f2 l\u00e8 \u1e63e \u00e0\u1e63\u00e0r\u00f2 f\u00fan \u1ecdgb\u1ecd\u0300n o\u1e63\u00f9 ",
+        "translation": "Twenty youngsters cannot play together for twenty years; thirty elders cannot hold discussions for thirty months.",
+        "wisdom": "Nothing lasts forever; change is inevitable: anticipate and prepare for it."
+    },
+    {
+        "id": 47,
+        "proverb": "T\u00ed \u00e0d\u00far\u00e0 b\u00e1 gb\u00e0 t\u00e1n, ap\u00e1 al\u00e1d\u00far\u00e0 \u00f2 n\u00ed k\u00e1 a.",
+        "translation": "When a prayer is answered, the person who prayed would be overwhelmed.",
+        "wisdom": "Prayers work; God's response is always so complete as to be overwhelming."
+    },
+    {
+        "id": 48,
+        "proverb": "\u00c0k\u00f9r\u1ecd\u200c ti l\u00f3mi t\u1eb9\u200cl\u1eb9\u200c, k\u00ed \u00f2j\u00f2 t\u00f3 r\u1ecd\u0300  s\u00ed i.",
+        "translation": "The river bank was damp with water, even before the rain fell on it.",
+        "wisdom": "Be humble; don't arrogate to yourself what is essentially God's blessing."
+    },
+    {
+        "id": 49,
+        "proverb": "\u00c0\u00ecm\u1ecd\u1e63\u1eb9\u0301 k\u1ecd\u0300 \u1ecdm\u1ecd aj\u00e1, l\u1ecdd\u1eb9 fi \u0144r\u00e1n an n\u00ed\u1e63\u1eb9\u0301 ik\u00fa.",
+        "translation": "Not knowing how to say no, is why the dog gets sent on life-threatening errands by the hunter.",
+        "wisdom": "Learn to say \u201cNo\u201d; it is not every offer that one accedes to."
+    },
+    {
+        "id": 50,
+        "proverb": "\u1eccw\u1ecd\u200c ata \u00f2 \u1e63e \u00e9 fi b\u1ecd\u200cj\u00fa; \u1ecdw\u1ecd\u200c epo \u00f2 \u1e63e \u00e9 fi m\u00fa \u00e0l\u00e0.",
+        "translation": "A hand with pepper cannot be used to wash the face; the one with palm oil cannot be used to handle a white cloth.",
+        "wisdom": "Even with the best of intentions, some things are just inappropriate."
+    },
+    {
+        "id": 51,
+        "proverb": "A k\u00ec \u00ed b\u00edn\u00fa s\u00ed \u1eb9ni t\u00ed a k\u00f2 r\u00ed.",
+        "translation": "Do not be angry with someone you have not heard out.",
+        "wisdom": "Never rush to judgment; there is always a chance you could be wrong; always give people the benefit of the doubt."
+    },
+    {
+        "id": 52,
+        "proverb": "\u00ccw\u00e0 \u1ecd\u0300l\u1eb9 l\u00f3 \u0144ba \u1ecd\u0300l\u1eb9 l\u1eb9\u0301r\u00f9; \u1ecd\u0300l\u1eb9 \u1e63e t\u00e1n, \u00f3 n\u00ed w\u1ecdn \u00f2 f\u1eb9\u0301r\u00e0n \u00f2un.",
+        "translation": "An indolent is preceded by his character but at the end complains that he or she is not accepted.",
+        "wisdom": "Our character often confronts us with unpleasant consequences; change your character to change any unwanted outcome."
+    },
+    {
+        "id": 53,
+        "proverb": "A k\u00ec \u00ed n\u00ed k'\u1ecd\u0301m\u1ecd \u1eb9ni m\u00e1 d'\u1eb9\u0301t\u1eb9\u0300, t\u00f3 b\u00e1 ti l\u00e8 d\u00e1'gb\u00f3 gb\u00e9.",
+        "translation": "You never restrain your child from becoming leprous, as long as he can live in the forest alone.",
+        "wisdom": "Everyone bears the consequences of his or her choices."
+    },
+    {
+        "id": 54,
+        "proverb": "\u1eb8ni t\u00ed k\u00f2 t\u00ed\u00ec k\u00far\u00f2 l\u00e1y\u00e9, k\u00f2 l\u00e8 m\u1ecd ir\u00fa \u1eb9ni t\u00ed \u00f2un y\u00f3 d\u00e0.",
+        "translation": "Whoever still has life, cannot be limited in what he or she can become.",
+        "wisdom": "With life, there's no impossibility; it's not over yet: keep hope alive."
+    },
+    {
+        "id": 55,
+        "proverb": "B\u00ed agbada \u00f2 b\u00e1 gb\u00f3n\u00e1, \u00e0gb\u00e0do \u00f2 le\u00e8 ta.",
+        "translation": "If the frying pan is not heated up, the corns cannot pop.",
+        "wisdom": "Good things do not always come easy; no pain, no gain; hang in there: don't give up."
+    },
+    {
+        "id": 56,
+        "proverb": "Ibi kan \u1e63o\u1e63o k\u1ecd\u0301 la ti \u0144r\u00ed \u1ecd\u0300run.",
+        "translation": "The sky is not seen from only one single spot.",
+        "wisdom": "Alternative approaches exist; there are many ways to achieve a goal: don't be fixated on one."
+    },
+    {
+        "id": 57,
+        "proverb": "Aj\u00e1 t\u00f3 m\u00e1a s\u1ecdn\u00f9 k\u00ec \u00ed gb\u1ecd\u0301 f\u00e8r\u00e8 \u1ecdl\u1ecd\u0301d\u1eb9.",
+        "translation": "A dog destined to get lost won't hear the hunter's (redeeming) whistling.",
+        "wisdom": "Those bent on a course of action won't heed wiser counsels; keep an open mind: there is some sense in nonsense."
+    },
+    {
+        "id": 58,
+        "proverb": "\u00ccr\u00e8k\u00e9 \u00f2 n\u00ed ib\u00f9d\u00f3; ibi gbogbo l\u00f3 gba al\u00e1gb\u00e1ra.",
+        "translation": "Sugarcane has no specific place of refuge; every situation suits a diligent fellow just fine.",
+        "wisdom": "Diligence pays. #owe #oweyoruba #yorubaproverb #yoruba #proverb"
+    },
+    {
+        "id": 59,
+        "proverb": "E\u0323nu \u1eb9y\u1eb9 ni \u00ed p\u1eb9y\u1eb9; \u1eb9nu \u00f2rof\u00f3 ni \u00ed pa \u00f2rof\u00f3; \u00f2rof\u00f3 b\u00edm\u1ecd m\u00e9\u0323f\u00e0, \u00f3 n\u00ed il\u00e9 \u00f2un k\u00fan \u1e63o\u0301\u0323\u1e63o\u0301\u0323.",
+        "translation": "The mouth of a bird is its undoing; the wild pidgeon hatches just six chicks and brags that its nest is completely filled up. ",
+        "wisdom": "Modesty is it; brag less."
+    },
+    {
+        "id": 60,
+        "proverb": "\u1eb8ni a f\u1eb9\u0301 la m\u1ecd\u0300, a \u00f2 m\u1ecd \u1eb9ni t\u00f3 f\u1eb9\u0301'ni.",
+        "translation": "You do know who you love for sure, but you cannot be certain of who really loves you.",
+        "wisdom": "Be perceptive; things are often not as they appear."
+    },
+    {
+        "id": 61,
+        "proverb": "\u00d2r\u00f2m\u1ecdad\u00ecy\u1eb9 \u0144b\u00e1 \u00e0\u1e63\u00e1 \u1e63er\u00e9, \u00f3 r\u00f2 p\u00e9 \u1eb9y\u1eb9 oko l\u00e1s\u00e1n ni.",
+        "translation": "The chick gullibly plays with the hawk believing it to be an ordinary bird.",
+        "wisdom": "Naivety can be risky, if not fatally costly; invest in knowledge."
+    },
+    {
+        "id": 62,
+        "proverb": "Ohun t\u00f3 \u1e63e ig\u00fannug\u00fan t\u00f3 fi p\u00e1 l\u00f3r\u00ed, t\u00f3 \u1e63e \u00e0k\u00e0l\u00e0m\u00e0gb\u00f2 t\u00f3 fi y\u1ecd g\u1eb9\u0300g\u1eb9\u0300 l\u1ecd\u0301r\u00f9n, t\u00f3 b\u00e1 \u1e63e \u00e0gb\u00f2 b\u1ecd\u0300l\u1ecd\u0300j\u1ecd\u0300, \u00e1 ti fa \u00ecwo r\u1eb9\u0300 tu.",
+        "translation": "If what balded the vulture and gave the crow goiter had befallen the full-grown ram, it would have lost its horns.",
+        "wisdom": "Be tolerant; people are different."
+    },
+    {
+        "id": 63,
+        "proverb": "Or\u00ed b\u00edb\u1eb9\u0301 k\u1ecd\u0301 ni o\u00f2g\u00f9n or\u00ed f\u00edf\u1ecd\u0301.",
+        "translation": "Decapitation is not the antidote for headache. ",
+        "wisdom": "Moderation is it; adopt radical measures with caution. #owe #oweyoruba #yorubaproverb #yoruba #proverb #wisdom"
+    },
+    {
+        "id": 64,
+        "proverb": "\u1eb8ni t\u00f3 gb\u00e9 \u00ecl\u00f9 r\u1eb9\u0300 k\u1ecd\u0301 ap\u00e1, ay\u00e9 \u0144b\u00e1a l\u00f9\u00fa, \u00e1\u1e3fb\u1ecd\u0300t\u00f3r\u00ed \u1eb9ni t\u00f3 gb\u00e9 tir\u1eb9\u0300 k\u1ecd\u0301 igi t\u00f3 \u1e63er\u00e9 l\u1ecd.",
+        "translation": "The person who hung his drum on his elbow still had the drum beaten by others, not to mention someone who hung his on a tree (branch) and walked away.",
+        "wisdom": "No complacency; make hay while the sun shines. #owe #oweyoruba #yorubaproverb #yoruba #proverb #wisdom"
+    },
+    {
+        "id": 65,
+        "proverb": "A k\u00ec \u00ed m\u1ecd or\u00fak\u1ecd \u1eccl\u1ecd\u0301run, k\u00ed \u00ecy\u00e0 \u00f3 j\u1eb9'ni.",
+        "translation": "One cannot really know God's name (or know God for sure) and suffer.",
+        "wisdom": "God is dependable; He is a present help, for those who trust in Him."
+    },
+    {
+        "id": 66,
+        "proverb": "M\u1ecd\u0300j\u00e0 m\u1ecd\u0300s\u00e1 ni ti ak\u00ednkanj\u00fa; ak\u00ednkanj\u00fa t\u00f3 b\u00e1 m\u1ecd\u0300\u1ecd\u0301 j\u00e0 t\u00ed k\u00f2 m\u1ecd\u0300\u1ecd\u0301 s\u00e1 \u00e1 b\u00e1 ogun l\u1ecd.",
+        "translation": "Warriors must know when to fight and when to retreat; a warrior who knows when to fight, but not when to retreat will perish in battle.",
+        "wisdom": "Know when to pursue, defer or quit."
+    },
+    {
+        "id": 67,
+        "proverb": "\u00d2k\u00f2 t\u00ed a b\u00e1 b\u00edn\u00fa j\u00f9, k\u00ec \u00ed pa \u1eb9y\u1eb9.",
+        "translation": "A bird is seldom killed by a stone thrown in anger.",
+        "wisdom": "Actions taken in anger seldom achieve desired results; tone down the fury: it can be self-defeating."
+    },
+    {
+        "id": 68,
+        "proverb": "K\u00f2 s\u00ed b\u00ed im\u00fa \u1e63e l\u00e8 t\u00f3bi t\u00f3, k\u00f3 l\u00e8 gba \u1ecd\u0300r\u1ecd\u0300 \u1eb9nu s\u1ecd.",
+        "translation": "No matter how big the nose is, it can't take over the speaking role of the mouth.",
+        "wisdom": "We all are unique with our different strengths; envy no one: stay in your lane."
+    },
+    {
+        "id": 69,
+        "proverb": "\u00d2kun k\u00ec \u00ed h\u00f3 ruru, k\u00ed \u00e1 w\u00e0 \u00e1 ruru.",
+        "translation": "Never paddle wildly in a stormy sea.",
+        "wisdom": "Be patient; complex issues must be calmly handled: cooler heads must always prevail."
+    },
+    {
+        "id": 70,
+        "proverb": "A k\u00ec \u00ed wo ago al\u00e1ago \u1e63i\u1e63\u1eb9\u0301.",
+        "translation": "Don't carry out your duties using someone else's time piece. ",
+        "wisdom": "Compare yourself with no one: you don't know anyone's story; stay in your lane; be focused."
+    },
+    {
+        "id": 71,
+        "proverb": "\u1eb8ni t\u00f3 \u0144b\u1eb9\u0300r\u00f9 \u00e0ti \u1e63ub\u00fa, \u00e0ti d\u00ecde \u00e1 nira f\u00fan un.",
+        "translation": "Whoever is scared of falling will find rising pretty tough.",
+        "wisdom": "Nothing ventured, nothing gained; be bullish; be open to taking calculated risks."
+    },
+    {
+        "id": 72,
+        "proverb": "Oko d\u00f9n \u00fan ro l'\u00e0gb\u1eb9\u0300d\u1eb9 \u1e63e \u0144r\u1ecd \u1ecdk\u1ecd\u0301.",
+        "translation": "If farming were that fantastic, would blacksmiths opt to make hoes (for others)?",
+        "wisdom": "Look beyond the surface: think critically; don't be naive or simplistic; things are often not quite as they appear."
+    },
+    {
+        "id": 73,
+        "proverb": "\u1ecc\u0300r\u1ecd\u0300 t\u00f3 m\u00e1a di ak\u00e0n, b\u00ed \u1eb9ja ni \u00ed k\u1ecd\u0301k\u1ecd\u0301 m\u00e1a \u0144r\u00ed.",
+        "translation": "What will turn out favourable eventually, often starts out with much challenges. ",
+        "wisdom": "Don't quit; keep hope alive; if you won't give up, you will win, eventually."
+    },
+    {
+        "id": 74,
+        "proverb": "Ohun t\u00ed a b\u00e1 fi s\u00edl\u1eb9\u0300 l\u1eb9nu ew\u00far\u1eb9\u0301 \u0144t\u00f3.",
+        "translation": "What is left unattended, is what the goat's mouth can get to.",
+        "wisdom": "Ultimately, we lose whatever we neglect: care for what you value."
+    },
+    {
+        "id": 75,
+        "proverb": "\u00c0j\u1ecdj\u1eb9 \u00f2 d\u00f9n b\u00ed \u1eb9n\u00eckan \u00f2 b\u00e1 n\u00ed; \u1ecdj\u1ecd\u0301 a n\u00ed la \u0144\u1e63e \u00e0j\u1ecdj\u1eb9.",
+        "translation": "Sharing a meal isn't pleasant when one party persistently lacks; we are usually happy to share, when we all can give.",
+        "wisdom": "It's good to give to others, but better to empower them to help themselves."
+    },
+    {
+        "id": 76,
+        "proverb": "\u00c0gb\u1eb9\u0300 t\u00f3 roko t\u00ed k\u00f2 gbin \u1ecdk\u00e0 l\u00f3un d\u00e1 ik\u00fan l\u00f3r\u00f3; ik\u00fan k\u1ecd\u0301 l\u00f3 d\u00e1 l\u00f3r\u00f3, ara \u1eb9\u0300 l\u00f3 d\u00e1 l\u00f3r\u00f3.",
+        "translation": "A farmer who ploughed his farm, but planted no corn claims he's hurting the ground squirrel; he hasn't hurt any squirrel, but himself.",
+        "wisdom": "Vindictive actions can be self-defeating: be forward-looking; be positive."
+    },
+    {
+        "id": 77,
+        "proverb": "B\u00e1a g\u00fan iy\u00e1n, t\u00e1a ro \u1ecdk\u00e0 f\u00fan k\u00f2f\u1eb9\u0301k\u00f2gb\u00e0, k\u00f2 n\u00ed f\u1eb9\u0301, k\u00f2 n\u00ed gb\u00e0, n\u00e1\u00e0 ni.",
+        "translation": "Even if you pound yam and prepare yam flour meal for a contentious person, he or she will yet remain contentious.",
+        "wisdom": "Be forward-looking, be positive; do your best and keep moving."
+    },
+    {
+        "id": 78,
+        "proverb": "H\u00edh\u00f3 \u1ecd\u1e63\u1eb9 la fi \u00ed b\u1ecd\u0300w\u1ecd\u0300 f\u00fan un; \u1ecd\u0300\u1e63\u1eb9 t\u00ed \u00f2 h\u00f3 \u00f2 n\u00ed'y\u00ec m\u1ecd\u0301.",
+        "translation": "To lather is the beauty of soap; any soap that won't lather has no honour.",
+        "wisdom": "Develop and hone your talent and uniqueness, and be a blessing with them; and your honour beckons."
+    },
+    {
+        "id": 79,
+        "proverb": "B\u00ed \u1ecdk\u1ecd\u0300 kan \u00f3 re Ej\u00ednr\u00edn, \u1eb9gb\u1eb9gb\u1eb9\u0300r\u00fan \u1eb9\u0300 \u00e1 l\u1ecd.",
+        "translation": "If one bus won't go to Ejinrin town, thousands others will go.  ",
+        "wisdom": "No one, and nothing is irreplaceable; alternatives always exist, if we look well enough."
+    },
+    {
+        "id": 80,
+        "proverb": "\u1eb8y\u00ecn t\u00ed y\u00f3\u00f2 di epo, y\u00f3\u00f2 t\u1ecd\u0301 in\u00e1 w\u00f2.",
+        "translation": "A palm nut that desires to become palm oil will have a taste of fire. ",
+        "wisdom": "There's always a price tag; good things do not always come easy; no pain, no gain."
+    },
+    {
+        "id": 81,
+        "proverb": "K\u00ec \u00ed \u1e63e gbogbo aj\u00e1 t\u00f3 b\u00e1 gb\u00f3'ni l\u1ecd\u0301j\u00e0, la \u0144d\u00e1 l\u00f3h\u00f9n.",
+        "translation": "It's not all the dogs that bark at one at the marketplace that one responds to.",
+        "wisdom": "Be focused: ignore distractions; not all issues should get our attention."
+    },
+    {
+        "id": 82,
+        "proverb": "Agb\u1ecd\u0301n s\u1eb9\u0301, oyin s\u1eb9\u0301, oj\u00fa ol\u00f3ko r\u00e8 \u00e9 g\u00f2d\u00f2gb\u00f2 godogbo.",
+        "translation": "The wasp denies (stinging the farmer), the bee denies, yet the farmer's face remains heavily swollen.",
+        "wisdom": "What we say pales to what we do: our actions define and expose who we really are;  be true in fact and in appearance."
+    },
+    {
+        "id": 83,
+        "proverb": "B\u00e0t\u00e0 or\u00ed \u00e0k\u00ect\u00e0n n\u00e1\u00e0 re \u00f2de \u00ecy\u00e0w\u00f3 r\u00ed.",
+        "translation": "Those pair of shoes on the refuse dump was once worn to a wedding.",
+        "wisdom": "Change is inevitable: a season must need go and another must need come; nothing lasts forever."
+    },
+    {
+        "id": 84,
+        "proverb": "\u00ccb\u1eb9\u0300r\u1eb9\u0300 k\u1ecd\u0301 l'on\u00eds\u1eb9\u0301, \u00e0 fi \u1eb9ni t\u00f3 b\u00e1 fi or\u00ed t\u00ec \u00ed  d'\u00f3pin.",
+        "translation": "To start anything is not as crucial as seeing it through to completion.",
+        "wisdom": "'Finishiative' is superior to initiative: don't start what you won't finish; finish whatever you start."
+    },
+    {
+        "id": 85,
+        "proverb": "Kin\u00ed y\u00ec \u00ed, kin\u00ed i wa ni, \u00f3 y\u00e0t\u1ecd\u0300 s\u00ed kin\u00ed y\u00ec \u00ed, kin\u00ed \u00ec mi ni.",
+        "translation": "This item is ours is different from this item is mine.",
+        "wisdom": "If it is not wholly yours, you cannot have absolute claim on it; group ownership is grossly  limitting."
+    },
+    {
+        "id": 86,
+        "proverb": "T\u00ed \u1eb9\u1e63in b\u00e1 d\u00e1'ni, a m\u00e1a \u0144tun \u00f9n g\u00f9n ni.",
+        "translation": "If one is thrown by a horse, one ought to remount it again.",
+        "wisdom": "If you try and fail, try again; it's not how many times you fall that counts, but how many times you get up: if you won't give up, you will win, eventually."
+    },
+    {
+        "id": 87,
+        "proverb": "\u1eb8ni t\u00ed b\u00ed\u0144t\u00ed \u00f2 t\u00f3, p\u00fap\u1ecd\u0300 y\u00f3\u00f2 j\u00ecnn\u00e0 s\u00ed i.",
+        "translation": "Abundance will be far from whoever is not contented with a little. ",
+        "wisdom": "Contentment is it; it makes for increase."
+    },
+    {
+        "id": 88,
+        "proverb": "M\u1ecd\u0300j\u00e0 m\u1ecd\u0300s\u00e1 l'ak\u00ednkanj\u00fa; ak\u00ednkanj\u00fa t\u00f3 b\u00e1 m\u1ecd\u0300\u1ecd\u0301 j\u00e0 t\u00ed k\u00f2 m\u1ecd\u0300\u1ecd\u0301 s\u00e1 \u00e1 b\u00e1 ogun l\u1ecd.",
+        "translation": "A good warrior must know when to fight and when to retreat; a warrior who knows when to fight but not when to retreat will die in battle.",
+        "wisdom": "Timing is crucial; know when to pursue, defer or quit."
+    },
+    {
+        "id": 89,
+        "proverb": "K\u00ec \u00ed r\u1eb9 ol\u00f3gb\u00f2, k\u00f3 m\u00e1 l\u00e8 \u1e63e \u1ecdd\u1eb9 eku.",
+        "translation": "A cat is never too tired to hunt mice.",
+        "wisdom": "Be steadfast, be persistent, be resilient; never quit: quitting is the only way to fail."
+    },
+    {
+        "id": 90,
+        "proverb": "K\u00e1 panup\u1ecd\u0300 l\u00e9 \u1eb9l\u1eb9\u0301y\u1ecd\u0301r\u1ecd\u0301 l\u1ecd n\u00e1, k\u00ed a t\u00f3 w\u00e1 f\u00e0b\u1ecd\u0300 s\u00ed ad\u00ecy\u1eb9.",
+        "translation": "We ought to come together to chase away the fox first, before reverting to the hen. ",
+        "wisdom": "Handle the most pressing of two problems first rather than inefficiently attempt the two at once."
+    },
+    {
+        "id": 91,
+        "proverb": "\u00cch\u00f2h\u00f2 dodo l\u00e0gb\u00e0do \u0144w\u1ecd il\u1eb9\u0300; t\u00f3 b\u00e1 j\u00e1de t\u00e1n l\u00f3 \u0144di on\u00edgba a\u1e63\u1ecd.",
+        "translation": "The maize seed goes into the soil absolutely naked; it ends up with multiple peelings only after sprouting.",
+        "wisdom": "The best is yet to come; keep hope alive."
+    },
+    {
+        "id": 92,
+        "proverb": "Gbogbo \u00ecgb\u1eb9\u0301 k\u1ecd\u0301 l\u1ecdd\u1eb9 ti \u0144pa \u1ecd\u0300y\u00e0; gbogbo ogun k\u1ecd\u0301 lak\u00edkanj\u00fa ti \u0144yege.",
+        "translation": "It's not from all forests that a hunter kills a grasscutter; it's not all battles that a warrior wins. ",
+        "wisdom": "You needn't win all battles to win the war: just win the right ones; pick your battles, wisely: don't get embroiled in trivialities."
+    },
+    {
+        "id": 93,
+        "proverb": "\u00c0gb\u00e0lagb\u00e0 t\u00f3 b\u00e1 f\u1eb9\u0301 f\u1ecd in\u00fa ak\u00e8r\u00e8gb\u00e8 m\u1ecd\u0301 gb\u1ecd\u0301d\u00f2 \u1e63'\u1ecd\u0300r\u1eb9\u0301 \u1ecdm\u1ecdd\u00e9, b\u1eb9\u0301\u1eb9\u0300 n\u00e1\u00e0 ni \u1ecdm\u1ecdd\u00e9 t\u00f3 b\u00e1 f\u1eb9\u0301 m\u00fa n\u01f9kan l\u00f3r\u00ed p\u1eb9p\u1eb9 gb\u1ecdd\u1ecd\u0300 s\u00fan m\u1ecd\u0301 \u00e0gb\u00e0lagb\u00e0 n\u00edtor\u00ed \u1ecdw\u1ecd\u0301 \u1ecdm\u1ecdd\u00e9 \u00f2 t\u00f3 p\u1eb9p\u1eb9 t'\u00e0gb\u00e0lagb\u00e0 \u00f2 w\u1ecd ak\u00e8r\u00e8gb\u00e8.",
+        "translation": "An elderly person who wants to wash the inside of a gourd, clean, must befriend a child; so also a child who wants to retrieve something on a high shelf must be close to an elder, because a child's hand cannot reach a shelf; and that of an elder won't enter a gourd.",
+        "wisdom": "No one can do it all; we do need one another; cooperate and collaborate more."
+    },
+    {
+        "id": 94,
+        "proverb": "B\u00ed \u1ecdm\u1ecdd\u00e9 b\u00e1 l\u00f3un \u00f2 m\u1eb9\u0300w\u1eb9\u0300, p\u00e9 \u00f2un \u00f2 m\u00f2w\u00e8, \u00e0\u00e1 s\u00ec j\u00e1 \u1eb9\u0300w\u1eb9\u0300 s\u00ed \u1ecdw\u1ecd \u1ecd\u0300t\u00fan, \u00e0\u00e1 j\u00e1 \u00f2w\u00e8 s\u00ed \u1ecdw\u1ecd \u00f2s\u00ec f\u00fan un ni.",
+        "translation": "If a youngster claims ignorance of the \u1eb9\u0300w\u1eb9\u0300 and \u00f2w\u00e8 leaves, one ought to pluck one on his (or her) right hand and the other on his left for him.",
+        "wisdom": "Assert real (or feigned) ignorance of personal responsibility gently, but firmly; don't encourage abdication of responsibility."
+    },
+    {
+        "id": 95,
+        "proverb": "B\u00ed \u00e8y\u00e0n \u00f2 b\u00e1 r\u00ecn n\u00ed igb\u00e8r\u00ed ir\u1ecd\u0301, w\u1ecdn k\u00ec \u00ed pa\u00e1 m\u1ecd\u0301'ni.",
+        "translation": "If one is not within the vicinity of falsehoods, one cannot be falsely accused. ",
+        "wisdom": "Personal integrity is crucial; quite often, it determines one's experience."
+    },
+    {
+        "id": 96,
+        "proverb": "\u00c0gb\u1eb9\u0300 t\u00f3 roko t\u00ed k\u00f2 gbin \u1ecdk\u00e0 l\u00f3un d\u00e1 ik\u00fan l\u00f3r\u00f3; ik\u00fan k\u1ecd\u0301 l\u00f3 d\u00e1 l\u00f3r\u00f3, ara \u1eb9\u0300 l\u00f3 d\u00e1 l\u00f3r\u00f3.",
+        "translation": "A farmer who ploughed his farm, but planted no corn claims he's hurting the ground squirrel; he hasn't hurt any squirrel, but himself.",
+        "wisdom": "Be positive, be forward-looking; vindictive actions can be self-limiting."
+    },
+    {
+        "id": 97,
+        "proverb": "Gbogbo \u1ecd\u0300r\u1ecd\u0300 l\u00f3 l\u00e9s\u00ec, \u1e63\u00f9gb\u1ecd\u0301n k\u00ec \u00ed \u1e63e gbogbo \u1ecd\u0300r\u1ecd\u0300 l\u00e0\u00e1 f\u00e8s\u00ec s\u00ed.",
+        "translation": "There is always an appropriate response to every statement, but it's not every statement that one responds to.",
+        "wisdom": "Be focused and ignore distractions; not all issues deserve one's attention."
+    },
+    {
+        "id": 98,
+        "proverb": "\u00c0j\u1ecdj\u1eb9 \u00f2 d\u00f9n b\u00ed \u1eb9n\u00eckan \u00f2 b\u00e1 n\u00ed; \u1ecdj\u1ecd\u0301 a n\u00ed la \u0144\u1e63e \u00e0j\u1ecdj\u1eb9.",
+        "translation": "Eating together isn't pleasant when one party lacks; we are usually happy to share, when we all can give.",
+        "wisdom": "It's good to give to others, but better to empower them; it's better to teach people to fish than give them fish."
+    },
+    {
+        "id": 99,
+        "proverb": "T\u00ed \u00e0d\u00far\u00e0 b\u00e1 gb\u00e0 t\u00e1n, ap\u00e1 al\u00e1d\u00far\u00e0 \u00f2 n\u00ed k\u00e1 a.",
+        "translation": "When a prayer is answered, the person who prayed would be overwhelmed.",
+        "wisdom": "Prayers work; God's response can be so complete as to be overwhelming."
+    },
+    {
+        "id": 100,
+        "proverb": "\u1eb8ni b\u00e1 \u0144s\u1ecd \u00f2k\u00f2 s\u00ed ad\u00ecy\u1eb9 igba, \u00f2k\u00f2 l\u00f3 m\u00e1a s\u1ecd t\u00ed il\u00e8\u0323 \u00e1 fi \u1e63\u00fa.",
+        "translation": "Whoever is throwing stones at two hundred hens, will be at it until the evening.",
+        "wisdom": "Be focused; don't flock shoot; to focus on doing too many at once, is a recipe for doing none."
+    },
+    {
+        "id": 101,
+        "proverb": "\u00c8\u00e9f\u00edn ni \u00ecw\u00e0; k\u00f2 \u1e63e\u00e9 fi pam\u1ecd\u0301.",
+        "translation": "Character is like smoke; it cannot be covered up. ",
+        "wisdom": "No one can pretend to be who he is not for long; ultimately, our character shows through."
+    },
+    {
+        "id": 102,
+        "proverb": "A k\u00ec \u00ed \u1e63e f\u00e1\u00e0r\u00ed \u1eb9\u0300\u1e63\u1eb9\u0301 d\u00edd\u00ec, si \u1ecdm\u1ecd ad\u1eb9\u0301t\u1eb9\u0300.",
+        "translation": "Don\u2019t brag about fists in the presence of a leper.",
+        "wisdom": "Be considerate, courteous and tactful. Be sensitive and show empathy."
+    },
+    {
+        "id": 103,
+        "proverb": "\u1eb8ni t\u00f3 \u0144b\u1eb9\u0300r\u00f9 \u00e0ti \u1e63ub\u00fa, \u00e0ti d\u00ecde \u00e1 nira f\u00fan un.",
+        "translation": "Whoever is scared of falling will find rising pretty tough.",
+        "wisdom": "Be bullish; take calculated risks; nothing ventured, nothing gained."
+    },
+    {
+        "id": 104,
+        "proverb": "K\u00e1 m\u00fa \u1eb9yin s\u00ed \u1ecdw\u1ecd\u0301 \u1ecd\u0300t\u00fan, k\u00e1 m\u00fa \u1eb9y\u00ecn s\u00ed \u1ecdw\u1ecd\u0301 \u00f2s\u00ec, k\u00e1 f\u00ed \u1eb9\u0300y\u00ecn r\u00ecn l\u00e1ti \u00ccs\u1eb9\u0301y\u00ecn d\u00e9 \u00ccy\u00ecn \u00c8k\u00ect\u00ec, \u1eb9ni t\u00ed k\u00f2 n\u00ed fi i\u1e63\u1eb9\u0301 yin'ni k\u00f2 ni fi yin\u2019ni.",
+        "translation": "Even if one were to grab an egg with the right hand, a palm-nut with the left, and retro-walked from Iseyin (a town) to Iyin Ekiti, those who won't be grateful, still won't be.",
+        "wisdom": "You can't please everyone: do your very best and move on."
+    },
+    {
+        "id": 105,
+        "proverb": "B\u00f3 ti w\u00f9 k\u00ed oj\u00fa kan t\u00f3bi t\u00f3, oj\u00fa m\u00e9j\u00ec s\u00e0n ju oj\u00fa kan l\u1ecd.",
+        "translation": "No matter how big an eye is, two eyes are better than one.",
+        "wisdom": "Team spirit is it; together everyone achieves more; cooperate and collaborate more."
+    },
+    {
+        "id": 106,
+        "proverb": "\u00ccgb\u00edn \u00f2 l\u00e8 s\u00e1r\u00e9 b\u00ed Aj\u00e1; \u00ecy\u1eb9n \u00f2 n\u00ed k\u00f3 m\u00e1\u00e0 de ibi t\u00f3 \u0144l\u1ecd.",
+        "translation": "The snail cannot run as fast as the dog; that won't stop it from getting to wherever it's going.",
+        "wisdom": "We are all uniquely endowed, and complete enough to live out our lives; stay in your lane: envy no one."
+    },
+    {
+        "id": 107,
+        "proverb": "\u00d2kun k\u00ec \u00ed h\u00f3 ruru, k\u00ed \u00e1 w\u00e0 \u00e1 ruru.",
+        "translation": "Never paddle wildly in a stormy sea.",
+        "wisdom": "Be patient; complex issues should be carefully and patiently handled."
+    },
+    {
+        "id": 108,
+        "proverb": "B\u00ed \u00e8y\u00e0n b\u00e1 d\u00far\u00f3 s\u00edn\u00fa o\u00f2r\u00f9n t\u00edt\u00ed, b\u00f3 p\u1eb9\u0301 b\u00f3 y\u00e1, ib\u00f2ji, \u00e1 b\u00e1a n\u00edb\u1eb9\u0300.",
+        "translation": "If one tarries long in the sun, eventually, the shade will come (when the sun sets).",
+        "wisdom": "Tough times cannot last forever; keep hope alive."
+    },
+    {
+        "id": 109,
+        "proverb": "\u00c8y\u00e0n k\u00ec \u00ed m\u1ecd iy\u00ec ohun t\u00f3 n\u00ed, \u00e0 fi t\u00f3 b\u00e1 s\u1ecd \u1ecd\u0301 n\u00f9.",
+        "translation": "We seldom appreciate what we have, until we lose the thing.",
+        "wisdom": "Take nothing desired for granted: we lose, sometimes permanently, whatever we take for granted; treasure whatever you wish to keep."
+    },
+    {
+        "id": 110,
+        "proverb": "\u00c0b\u00e1 l\u00e0\u00e1 k\u00f3 d\u00e0n\u00f9; \u1eb9n\u00eckan k\u00ec \u00ed k\u00f3 al\u00e1\u00e0b\u00e1 d\u00e0n\u00f9.",
+        "translation": "You may only discard a suggestion, but not the one who made it.",
+        "wisdom": "A case against ad hominem; question and attack ideas not personalities."
+    },
+    {
+        "id": 111,
+        "proverb": "Od\u00f2 t\u00f3 \u0144\u1e63\u00e0n k\u00ec \u00ed b'oj\u00fa w'\u1eb9\u0300h\u00ecn.",
+        "translation": "A flowing stream never looks (or flows) backward.",
+        "wisdom": "Be forward-looking; be focused: no one drives forward with eyes on the rearview mirror."
+    },
+    {
+        "id": 112,
+        "proverb": "E\u0323ni t\u00ed \u00f2 f\u00e9\u0323 w\u1ecd \u00e0k\u00eds\u00e0, k\u00ec \u00ed b\u00e1 aj\u00e1 \u1e63e er\u00e9 e g\u00e9le.",
+        "translation": "Don't play rough with a dog, if you don't want to end up in tatters.",
+        "wisdom": "Look before you leap; think before you act: actions come with consequences."
+    },
+    {
+        "id": 113,
+        "proverb": "K\u00ed a t\u00f3 d\u00e9 ibi t\u00ed \u00e0 \u0144l\u1ecd, a m\u00e1a \u0144k\u1ecd\u0301k\u1ecd\u0301 d\u00e9 ibi t\u00ed a k\u00f2 f\u1eb9\u0301.",
+        "translation": "Before getting to our destination, we may have to get to where we'd rather not be.",
+        "wisdom": "Be focused, be strategic: always look ahead; don't lose the forest for the trees."
+    },
+    {
+        "id": 114,
+        "proverb": "M\u00e0l\u00fa\u00f9 t\u00ed \u00f2 n'\u00edr\u00f9, \u1eccl\u1ecd\u0301run ni \u00ed l\u00e9 e\u1e63in\u1e63in f\u00fan un.",
+        "translation": "It's God that fends off flies for a cow that has no tail. ",
+        "wisdom": "God helps those who can't help themselves; whatever is impossible to man, is possible with God."
+    },
+    {
+        "id": 115,
+        "proverb": "T\u00ed \u00f2giri \u00f2 b\u00e1 la'nu, al\u00e1\u01f9gb\u00e1 \u00f2 l\u00e8 r'\u00e1y\u00e8 w\u1ecd\u0300 \u1ecd\u0301.",
+        "translation": "If there are no crevices in the wall, the lizard cannot penetrate into the wall.",
+        "wisdom": "Actions beckon, and quite often, compel reactions; to stop an effect, eliminate the action causing it."
+    },
+    {
+        "id": 116,
+        "proverb": "A k\u00ec \u00ed b\u00e1 ara \u1eb9ni tan k\u00ed \u00e1 fa ara \u1eb9ni n'\u00edtan ya.",
+        "translation": "To be related to someone is no excuse to be unconscionably dependent on him or her.",
+        "wisdom": "Good to take personal responsibility; never abuse your privileges: there is a limit to everything."
+    },
+    {
+        "id": 117,
+        "proverb": "B\u00ed in\u00fa b\u00e1 b\u00ed baba t\u00f3 b\u00e1 gb\u00e9 \u1ecdm\u1ecd r\u1eb9\u0300 j\u00f9 s\u00ed in\u00fa e\u00e8r\u00f9n, b\u00ed in\u00fa r\u1eb9\u0300 b\u00e1 r\u1ecd\u0300, in\u00fa e\u00e8r\u00f9n l\u00e8 m\u00e1 r\u1ecd\u0300.",
+        "translation": "If a father gets so angry as to throw his child into a raid of army ants, by the time he calms down, the ants may not be.",
+        "wisdom": "Avoid rashness; be wary of taking crucial decisions when angry."
+    },
+    {
+        "id": 118,
+        "proverb": "\u1eb8ni t\u00f3 \u0144s\u00e1r\u00e9 t\u00f3 \u0144wo \u1eb9\u0300h\u00ecn, \u00f3 di dandan, k\u00f3 fi \u1eb9s\u1eb9\u0300 k\u1ecd.",
+        "translation": "Whoever keeps looking back while running, will certainly stumble.",
+        "wisdom": "Ignore distractions; stay focused and keep moving."
+    },
+    {
+        "id": 119,
+        "proverb": "B\u00ed a k\u00f2 b\u00e1 d\u1eb9\u0301kun \u00ecgb\u00ecy\u00e0nj\u00fa, b\u00f3 p\u1eb9\u0301 b\u00f3 y\u00e1 akitiyan wa \u00e1 d\u00f3pin l\u1ecd\u0301j\u1ecd\u0301 kan.",
+        "translation": "If we won't give up, our hustling will one day end.",
+        "wisdom": "Finish whatever you start: never give up, never quit; if we won't quit, we will win."
+    },
+    {
+        "id": 120,
+        "proverb": "\u00d2\u0323p\u1ecd\u0300 l\u00f3 f\u1eb9\u0301 l\u00e1\u00e0pa l\u00e1\u00ec l\u00e1p\u00e1, b\u00ed \u00e8\u00e8y\u00e0n \u00f2 s\u00ec l\u00e1p\u00e1, k\u00f2 le\u00e8 l\u00e1\u00e0pa.",
+        "translation": "Many want to make a mark without effort, yet without effort, no marks can be made.",
+        "wisdom": "Nothing ventured, nothing gained; diligence pays."
+    },
+    {
+        "id": 121,
+        "proverb": "\u00c0\u00ecsanra t\u00f3 aj\u00e1 ol\u00f3g\u00ecnn\u00ed k\u00ec \u00ed \u1e63e ti \u00e0\u00ecj\u1eb9un k\u00e1'n\u00fa; b\u00ed \u00ecran r\u1eb9\u0300 \u1e63e m\u1ecd ni.",
+        "translation": "The smaller frame of cats' relative to dogs isn't for want of food; that's cats' genetic makeup.",
+        "wisdom": "Appearance can be deceptive; often, there is more than is immediately obvious."
+    },
+    {
+        "id": 122,
+        "proverb": "Y\u00e0r\u00e1 k\u00e9ker\u00e9 gba og\u00fan \u1ecd\u0300r\u1eb9\u0301, t\u00ed \u00ecf\u1eb9 b\u00e1 w\u00e0 l\u00e1\u00e0\u00e1r\u00edn w\u1ecdn.",
+        "translation": "A little room is sizable enough for twenty friends, if there is love in their midst.",
+        "wisdom": "Love is it: little is much if love is in it; with love, a cottage may well pass for a castle."
+    },
+    {
+        "id": 123,
+        "proverb": "\u1eb8n\u00ed b\u00e1 r\u1ecdra pa \u00e8\u00e8r\u00e0, \u00e1 r\u00ed \u00ecfun in\u00fa u r\u1eb9\u0300.",
+        "translation": "Whoever would calmly and patiently dismember an ant would see its intestines.",
+        "wisdom": "Be calm, be even keeled, and be patient: virtually nothing is impossible, with these."
+    },
+    {
+        "id": 124,
+        "proverb": "\u00d2\u0323n\u00e0 t\u00ed \u00e8\u00e8y\u00e0n t\u1ecd\u0300 t\u00f3 \u1e63ub\u00fa, b\u00ed \u00e8\u00e8y\u00e0n b\u00e1 n\u00ed s\u00f9\u00far\u00f9, \u00e8y\u00e0n l\u00e8 t\u1ecd\u0300\u1ecd\u0301 l\u00e0.",
+        "translation": "A path that one treads and fails, with patience, one may well tread it to success.",
+        "wisdom": "No closed case and no impossibility: if you won't give up, you will win; be open-minded, be patient and be persistent."
+    },
+    {
+        "id": 125,
+        "proverb": "\u1eb8ni s\u1ecd\u0300r\u1ecd\u0300 p\u00fap\u1ecd\u0300 y\u00f3 \u1e63\u00ecs\u1ecd; \u00e0s\u1ecdj\u00f9 l\u00f3 \u0144m\u00fa \u00ecy\u00e1 \u1ecdba pe ara r\u1eb9\u0300 n\u00ed \u00ecy\u00e1 \u1ecd\u0300b\u1ecd.",
+        "translation": "Whoever talks excessively will misspeak; excessive talk made the king's mother (inadvertently) referred to herself as the mother of monkeys.",
+        "wisdom": "Moderation is crucial; exercise self-control, always."
+    },
+    {
+        "id": 126,
+        "proverb": "B\u00ed \u00ecgb\u00e0 b\u00e1 \u0144gb\u00e1'ni k\u00e1 m\u00e1a r\u1ecd\u0301'j\u00fa; b\u00f3 p\u1eb9\u0301 b\u00f3 y\u00e0 \u00ecgb\u00e0 \u0144b\u1ecd\u0300 w\u00e1 gba'ni.",
+        "translation": "If a season afflicts, we ought to persevere; the good times will soon come.",
+        "wisdom": "Persevere and keep hope alive; tough times won't last forever; change is inevitable."
+    },
+    {
+        "id": 127,
+        "proverb": "\u00d2 y\u1eb9 k\u00ed \u00ecd\u00ed gb\u00e9 \u00e0t\u00e0r\u00ed w\u00f2, k\u00f3 m\u1ecd i\u1e63\u1eb9 t\u00ed e\u1e63in\u1e63in \u0144\u1e63e.",
+        "translation": "The buttocks should trade places with the head, to appreciate what flies do (to it).",
+        "wisdom": "Be hesitant to criticise: you can't be too sure of what others are going through, if you've never been in their shoes."
+    },
+    {
+        "id": 128,
+        "proverb": "\u00ccw\u00e0 k\u00ec \u00ed fi on\u00edw\u00e0 s\u00edl\u1eb9\u0300.",
+        "translation": "We are inseparable from our character.",
+        "wisdom": "No one can pretend to be who he or she is not for very long; be patient, ultimately, the real character will show through."
+    },
+    {
+        "id": 129,
+        "proverb": "B\u00e1a g\u00fan ata n\u00edn\u00fa od\u00f3, b\u00e1a l\u1ecd\u0300 \u1ecd\u0301 l\u00f3r\u00ed \u1ecdl\u1ecd, iwa ata \u00f2 n\u00ed fi ata s\u00edl\u1eb9\u0300.",
+        "translation": "Even if we pound it in a mortar or grind it on the grinding stone, pepper will remain inseparable from its character.",
+        "wisdom": "Old habits die hard; we can hardly pretend to be who we are not, for long."
+    },
+    {
+        "id": 130,
+        "proverb": "A k\u00ec \u00ed d\u00e0gb\u00e0 j\u00f9 f\u00fan ohun t\u00ed a k\u00f2 b\u00e1 m\u1ecd\u0300.",
+        "translation": "One is never too old to learn what one does not know. ",
+        "wisdom": "There is no end to learning: be oen to it; age is no barrier to learning.]"
+    },
+    {
+        "id": 131,
+        "proverb": "B\u00ed a \u00f2 k\u00fa, \u00ec\u1e63e \u00f2 t\u00e1n.",
+        "translation": "As long as there is life, there is no end to what one can still achieve.",
+        "wisdom": "With life, there is hope; no impossibility; never ever give up."
+    },
+    {
+        "id": 132,
+        "proverb": "K\u00edk\u00e9r\u00e9 l'abe\u0323\u0301re\u0323\u0301 k\u00e9r\u00e9, k\u00ec \u00ed \u1e63e m\u00edm\u00ec f\u00fan ad\u00ecy\u1eb9.",
+        "translation": "A needle may be tiny, but it\u2019s not an object to be swallowed by the hen. ",
+        "wisdom": "Don't judge a book by its cover: never judge by appearance; underestimate no one."
+    },
+    {
+        "id": 133,
+        "proverb": "A k\u00ec \u00ed m\u1ecd or\u00fak\u1ecd \u1eccl\u1ecd\u0301run, k\u00ed \u00ecy\u00e0 \u00f3 j\u1eb9'ni.",
+        "translation": "One cannot really know God's name (or know God for sure) and suffer.",
+        "wisdom": "God is dependable; He is a present help, for those who trust in Him."
+    },
+    {
+        "id": 134,
+        "proverb": "\u00c0\u1e63\u1eb9\u0300\u1e63\u1eb9\u0300 d\u00e1y\u00e9 ol\u00f3gb\u00f2 ni \u00ed j\u00ecy\u00e0, b\u00f3 b\u00e1 d\u00e0gb\u00e0, \u00e1 t\u00f3 \u1ecdd\u1eb9 \u1eb9\u0301 \u1e63e.",
+        "translation": "Only as a kitten is the cat in deprivation, once fully grown it can do its own hunting.",
+        "wisdom": "The best is yet to come; keep hope alive; tough times won't last forever."
+    },
+    {
+        "id": 135,
+        "proverb": "\u1eb8ni \u1ecd\u0300r\u1eb9\u0301 d\u00e0, k\u00f3 m\u00e1 \u1e63e b\u00ed'n\u00fa; \u1eb9ni ab\u00ednib\u00ed \u0144da'ni.",
+        "translation": "Those betrayed by friends shouldn't be offended; even siblings betray one another.",
+        "wisdom": "Tolerance is it; forgive and forget; don't hold on to hurts."
+    },
+    {
+        "id": 136,
+        "proverb": "\u00c0lej\u00f2 b\u00ed \u00f2k\u00e9t\u00e9 l\u00e0 \u0144fi \u00e8k\u00f9r\u1ecd\u0301 l\u1ecd\u0300.",
+        "translation": "A guest like bush rat is the one offered palm kernel.",
+        "wisdom": "Appearance matters: how you appear dictates how you'll be received."
+    },
+    {
+        "id": 137,
+        "proverb": "B\u00e1a g\u00fan iy\u00e1n n\u00edn\u00fa ew\u00e9, t\u00e1a se \u1ecdb\u1eb9\u0300 n\u00edn\u00fa \u00e8po \u1eb9p\u00e0, \u1eb9ni m\u00e1a y\u00f3, \u00e1 y\u00f3.",
+        "translation": "Even if we pound yam in a leaf and prepare the soup in a groundnut pod, those who would be full, would be.",
+        "wisdom": "No impossibility; keep hope alive."
+    },
+    {
+        "id": 138,
+        "proverb": "\u00c0\u00e0t\u00e0n t\u00ed k\u00f2 b\u00e1 gba \u1eb9\u0300gbin, k\u00f2 n\u00ed k\u00fan b\u1ecd\u0300r\u1ecd\u0300.",
+        "translation": "A refuse dump that won't tolerate filth won't be filled up easily.",
+        "wisdom": "Be tolerant; intolerance can impose limitations."
+    },
+    {
+        "id": 139,
+        "proverb": "Yinni yinni k\u00ed \u1eb9ni \u1e63\u00e8'm\u00ed \u00ec.",
+        "translation": "Praise a kind person and he or she will be spurred to do more.",
+        "wisdom": "Praise and appreciation inspire and bring increase."
+    },
+    {
+        "id": 140,
+        "proverb": "B\u00ed in\u00fa \u1e63e k\u00e9r\u00e9 t\u00f3, \u00f3 fi \u00e0\u00e0y\u00e8 gba \u1ecdm\u1ecd.",
+        "translation": "As small as the belly is, it has room for the baby (the foetus).",
+        "wisdom": "We always make room for what is important to us."
+    },
+    {
+        "id": 141,
+        "proverb": "A n\u00ed k\u00ed \u1eb9 j\u1eb9 \u1eb9\u0301, \u1eb9 l\u00e9egun l\u00e1s\u00e1n ni; a n\u00ed k\u00ed \u1eb9 gb\u00e9 e s\u1ecdn\u00f9 \u1eb9 l\u1eb9\u0301ran d\u00ed\u1eb9\u0301 w\u00e0 \u0144b\u1eb9\u0300.",
+        "translation": "Asked to eat it, you claimed it is a mere bone; yet when asked to discard it, you insisted it still has some meat.",
+        "wisdom": "Greed spurs indecision and discontentment; the greedy is seldom contented."
+    },
+    {
+        "id": 142,
+        "proverb": "B\u00ed or\u00ed kan b\u00e1 sunw\u1ecd\u0300n \u00e1 ran'gba.",
+        "translation": "If one head is blessed, it will positively impact two hundred others.",
+        "wisdom": "Success can be contagious; a well-targeted intervention can positively affect several others."
+    },
+    {
+        "id": 143,
+        "proverb": "Gbogbo \u1eb9k\u00fan k\u1ecd\u0301 l\u00e0p\u1eb9r\u1eb9 \u00ecb\u00e0n\u00faj\u1eb9\u0301; gbogbo \u1eb9\u0300r\u00edn s\u00ec k\u1ecd\u0301 l\u00f3 t\u00fam\u1ecd\u0300 s\u00ed \u00ecd\u00f9nn\u00fa.",
+        "translation": "Not all tears signify sadness; not all laughters imply happiness.",
+        "wisdom": "Appearance can be deceptive; look beyond the obvious."
+    },
+    {
+        "id": 144,
+        "proverb": "Agb\u1eb9\u0301-igi-l\u00e9re kan k\u00f2 l\u00e8 gb\u1eb9\u0301 in\u00fa u r\u1eb9\u0300.",
+        "translation": "No sculptor can carve the internals of the statue he or she is carving.",
+        "wisdom": "There is a limit to what anyone can do: be reasonable in your expectations; most people are doing the very best they can, regardless of how it seems."
+    },
+    {
+        "id": 145,
+        "proverb": "\u1eb8ni t\u00f3 \u1e63e ohun t\u00f3 dun'ni l\u00f3\u00f2n\u00ed le \u1e63e ohun t\u00ed y\u00f3\u00f2 d\u00f9n m\u1ecd\u0301ni l'\u1ecd\u0301la.",
+        "translation": "A person who hurts one today may well be a blessing to one tomorrow.",
+        "wisdom": "Write-off no one; quit being vindictive: be forward-looking; there are no permanent enemies, only permanent interests."
+    },
+    {
+        "id": 146,
+        "proverb": "B\u00ed on\u00edr\u00e8s\u00e9 b\u00e1 k\u1ecd\u0300 t\u00ed \u00f2 f\u00edn'gb\u00e1 m\u1ecd\u0301, \u00e8y\u00ed t\u00f3 ti f\u00edn \u00f2 le\u00e8 parun.",
+        "translation": "Even if the calabash carver stops carving calabashes, those already carved will remain.",
+        "wisdom": "Even if we refrain from kind acts, those rendered still live on; keep up the kindness: they are never wasted or lost."
+    },
+    {
+        "id": 147,
+        "proverb": "B\u00ed a b\u00e1 p\u1eb9\u0301 l\u00f3r\u00ed im\u00ed, e\u1e63ink\u00e9\u1e63in a m\u00e1a b\u00e1\u2019ni n\u00edb\u1eb9\u0300.",
+        "translation": "Whoever takes unduly long in open defecation, may well play host to strange flies.",
+        "wisdom": "Undue tardiness often results in unexpected outcomes; make hay while the sun shines."
+    },
+    {
+        "id": 148,
+        "proverb": "\u1eb8l\u1eb9\u0301r\u00f9 l\u00f3 \u0144gb\u00e9 \u1eb9r\u00f9 \u1eb9\u0300 k\u00ed a t\u00f3 b\u00e1a f\u1ecdw\u1ecd\u0301 k\u00fan un.",
+        "translation": "The owner has to first pick up his (or her) luggage before others will extend hands of support.",
+        "wisdom": "Take responsibility and ownership, before seeking help; don't expect support from others, if you're unwilling to do all you can."
+    },
+    {
+        "id": 149,
+        "proverb": "\u1eb8ni t\u00f3 s\u00f9n l\u00e0 \u0144j\u00ed, a k\u00ec \u00ed j\u00ed apir\u1ecdr\u1ecd; t\u00e1a b\u00e1 j\u00ed apir\u1ecdr\u1ecd k\u00f2 n\u00ed d\u00e1h\u00f9n.",
+        "translation": "The person sleeping is the person one wakes, not the person pretending to be asleep; the person pretending won't respond, if one wakes him or her.",
+        "wisdom": "Unsolicited advice or assistance is seldom appreciated."
+    },
+    {
+        "id": 150,
+        "proverb": "A k\u00ec \u00ed fi \u1ecdj\u1ecd\u0301 kan, b\u1ecd\u0301 \u1ecdm\u1ecd t\u00f3 r\u00f9.",
+        "translation": "A lean child cannot be fattened in just one day.",
+        "wisdom": "Good things take time: be patient, but be dogged;  don\u2019t force issues before their time, but keep feeding the issues without relenting."
+    },
+    {
+        "id": 151,
+        "proverb": "Agara k\u00ec \u00ed d\u00e1 on\u00ed\u1e63\u1eb9\u0301 \u1eccl\u1ecd\u0301run.",
+        "translation": "God's messenger never grows weary.",
+        "wisdom": "God cannot be overwhelmed with man's needs; try Him."
+    },
+    {
+        "id": 152,
+        "proverb": "A k\u00ec \u00ed gba \u00e0k\u00e0t\u00e0 l\u1ecd\u0301w\u1ecd\u0301 ak\u00edt\u00ec; a k\u00ec \u00ed gba il\u00e9 baba \u1ecdm\u1ecd l\u1ecd\u0301w\u1ecd\u0301 \u1ecdm\u1ecd.",
+        "translation": "No one can stop monkeys from squatting; no one should deprive a child of his patrimony.",
+        "wisdom": "Be fair and just; don't deprive people of what is rightly theirs."
+    },
+    {
+        "id": 153,
+        "proverb": "A n\u00ed k\u00ed ohun t\u00f3 wu'ni w\u00e1, ohun t\u00f3 d\u00e1ra l\u00f3 y\u1ecdj\u00fa; b\u00f3 b\u00e1 d\u00e1ra b\u00ed k\u00f2 wu'ni \u0144k\u1ecd\u0301?",
+        "translation": "One beckons on what one desires, but the beautiful pops up; what if it's beautiful but it's not desired?",
+        "wisdom": "Our choice remains our choice: it's inviolable; beauty is in the eye of the beholder."
+    },
+    {
+        "id": 154,
+        "proverb": "T\u00ed \u1ecdm\u1ecdd\u00e9 b\u00e1 r\u00ed \u1eb9gb\u1eb9\u0301 r\u1eb9\u0300 t\u00f3 \u0144gun \u1eb9\u1e63in l\u1ecd n\u00edw\u00e1j\u00fa, \u00f3 y\u1eb9 k\u00f3 wo \u1eb9gb\u1eb9\u0301 b\u00e0b\u00e1 a r\u1eb9\u0300 t\u00f3 \u0144fi \u1eb9s\u1eb9\u0300 r\u00ecn b\u1ecd\u0300 l\u1eb9\u0301h\u00ecn.",
+        "translation": "A youngster who's anxious at his (or her) peers riding horses ahead, will do well to look back to see his father's mates trudging behind. ",
+        "wisdom": "Contentment is it."
+    },
+    {
+        "id": 155,
+        "proverb": "B\u00ed ar\u00e1 il\u00e9 \u1eb9ni b\u00e1 \u0144j\u1eb9 k\u00f2k\u00f2r\u00f2 b\u00fabur\u00fa, \u00f3 y\u1eb9 k\u00e1 s\u1ecd f\u00fan un, n\u00edtor\u00ed h\u00f9r\u00f9 h\u1eb9r\u1eb9 r\u1eb9\u0300 k\u00f2 n\u00ed j\u1eb9\u0301 k\u00e1 s\u00f9n l\u00f3ru.",
+        "translation": "If your companion is eating a harmful insect, caution him (or her); else, the effect on him won't let you sleep at night.",
+        "wisdom": "Be proactive; to be forewarned is to be forearmed."
+    },
+    {
+        "id": 156,
+        "proverb": "\u1eb8ni t\u00f3 j\u1eb9 \u1ecdba t\u00e1n t\u00f3 t\u00fan \u0144wo \u00f2k\u00e8 f\u1eb9\u0300 f\u1eb9\u0300 f\u1eb9\u0300, \u1e63\u00e9 \u00f3 f\u1eb9\u0301 di Ol\u00f3d\u00f9mar\u00e8 ni?",
+        "translation": "Does the person who kept looking upwards in dire expectation after just being crowned a king want to become God?",
+        "wisdom": "Contentment is it; lack of contentment can be stressful."
+    },
+    {
+        "id": 157,
+        "proverb": "\u00c0\u00ecn\u00ed \u00ecfor\u00edt\u00ec \u00e0par\u00f2 l\u00f3 s\u1ecd \u1ecd\u0301 di al\u00e1\u1e63\u1ecd p\u00edp\u1ecd\u0301n.",
+        "translation": "Patridge's lack of perseverance is what gave it its dirty garb.",
+        "wisdom": "Perseverance is it; Lack of perseverance may deprive you of what ought to rightfully be yours."
+    },
+    {
+        "id": 158,
+        "proverb": "\u1eb8ni t\u00ed k\u00f2 d\u00fap\u1eb9\u0301 \u1eb9gb\u1eb9\u0300f\u00e0, b\u1eb9\u0301 igi d\u00ed \u1ecd\u0300n\u00e0 egb\u00e8je.",
+        "translation": "Whoever is not grateful for small favours, blocks the path to bigger ones. ",
+        "wisdom": "Attitude of gratitude is it; kindness calls for gratitude; and gratitude beckons on more kindness."
+    },
+    {
+        "id": 159,
+        "proverb": "\u1ecc\u0300r\u1eb9\u0301 \u1eb9 m\u00ed s\u00f3, \u00e8mi n\u00e1\u00e0 y\u00f3\u00f2 s\u00f3; ol\u00fawar\u1eb9\u0300 y\u00f3\u00f2 k\u00e0n \u1e63u s\u00e1ra ni.",
+        "translation": "My friend farts, I must fart; you will simply end up defecating on yourself._",
+        "wisdom": "Stay in your lane and embrace your uniqueness; be secure in who you are: don't compare yourself with anyone."
+    },
+    {
+        "id": 160,
+        "proverb": "\u00cck\u00f2k\u00f2 \u0144se i\u1e63u \u1eb9n\u00eckan \u00f2 gbo\u0301\u0323, \u1e63\u00f9gb\u1ecd\u0301n i\u1e63\u00fa d\u00e9 in\u00fa od\u00f3 t\u00e1n ariwo \u00f3 ta.",
+        "translation": "While the pot was cooking the yam, no one heard a thing, but no sooner had the yams got into the mortar than noise broke out.",
+        "wisdom": "Avoid obtrusive grandstanding: empty vessels make the most noise."
+    },
+    {
+        "id": 161,
+        "proverb": "A k\u00ec \u00ed m\u1ecd\u0300\u1ecd\u0301 r\u00ecn m\u1ecd\u0300\u1ecd\u0301 yan k\u00ed or\u00ed m\u00e1 m\u00ec l'o\u0323\u0301r\u00f9n.",
+        "translation": "One cannot be so good at walking and marching that the head won't shake.",
+        "wisdom": "Tolerance is it; no one is perfect."
+    },
+    {
+        "id": 162,
+        "proverb": "A ki \u1eb9s\u1eb9\u0300 kan b\u1ecd od\u00f2, \u1ecd\u0300n\u00ec f\u00e0\u00e1, t\u00ed a b\u00e1 fi \u1eb9s\u1eb9\u0300 m\u00e9j\u00e8j\u00ec s'\u00f3d\u00f2 k\u00ed la m\u1ecd\u0300 p\u00f3 f\u1eb9\u0301 \u1e63\u1eb9'l\u1eb9\u0300.",
+        "translation": "We dipped a leg into the river and the crocodile snapped at it; who knows what would have happened had we dipped the two.",
+        "wisdom": " To be forewarned is to be forearmed."
+    },
+    {
+        "id": 163,
+        "proverb": "Ip\u00e1 \u0144m\u00fa \u1eb9\u1e63in l\u1ecd s\u00f3d\u00f2, ip\u00e1 \u00f2 f\u00fan un l\u00f3mi mu.",
+        "translation": "You can force a horse to the river but you can't force it to drink water.",
+        "wisdom": "You can provide opportunities, but you can't force anyone to take or make the best of them; you can't force anyone to do what he or she is determined not to do."
+    },
+    {
+        "id": 164,
+        "proverb": "A k\u00ec \u00ed y\u00e0g\u00f2 f\u00fan \u1eb9l\u1eb9\u0301\u1e63in \u00e0n\u00e1.",
+        "translation": "No one gives way (or defers) to someone who used to own a horse.",
+        "wisdom": "Don't live in the past: where we have been is not as crucial as where we are going; have a strategic-mindset and focus"
+    },
+    {
+        "id": 165,
+        "proverb": "B\u00ed a b\u00e1 \u1e63e'ni l\u00f3ore, \u1ecdp\u1eb9\u0301 l\u00e0 \u0144d\u00e1.",
+        "translation": "If one has been favoured with kindness, one ought to give thanks. ",
+        "wisdom": "Attitude of gratitude is it."
+    },
+    {
+        "id": 166,
+        "proverb": "A k\u00ec \u00ed gb\u1ecd\u0301 k\u00fak\u00f9 \u00f2j\u00f2 da omi agbada n\u00f9.",
+        "translation": "Never pour away the water in the trough simply because the cloud rumbles.",
+        "wisdom": "Don't be presumptuous; never count your chickens before they are hatched."
+    },
+    {
+        "id": 167,
+        "proverb": "B\u00ed ik\u00fa il\u00e9 \u00f2 pa'ni, t'\u00f2de \u00f2 le\u00e8 pa'ni.",
+        "translation": "If there is no enemy within, the ones outside can do us no harm. If there is no enemy within, the one outside can do us no harm. ",
+        "wisdom": "Choose your friends wisely; worry less about the enemies without.]"
+    },
+    {
+        "id": 168,
+        "proverb": "A k\u00ec \u00ed wo \u00ecy\u1eb9\u0301 ad\u00ecy\u1eb9 n\u00edl\u1eb9\u0300, k\u00ed a w\u00e1 fi \u00ecr\u00f9 \u00e0k\u00e8ek\u00e8\u00e9 rin et\u00ed.",
+        "translation": "No one has a hen's feather within reach and opt to scratch his or her inner ear with a scorpion's stinger.",
+        "wisdom": "Avoid needless exposures to high risks."
+    },
+    {
+        "id": 169,
+        "proverb": "\u1eccm\u1ecd ar\u00e1y\u00e9 \u0144p'\u00e0t\u1eb9\u0301w\u1ecd\u0301 f\u00fan y\u00e0nm\u00f9y\u00e1nm\u00fa, in\u00fa \u1eb9\u0300 \u0144d\u00f9n; k\u00f2 m\u1ecd\u0300 p\u00e9 \u00f2un \u0144fi ik\u00fa \u1e63er\u00e9 ni.",
+        "translation": "People clap for mosquito and it rejoices, oblivious that it is toying with death.",
+        "wisdom": "Be perceptive: not all positive gestures are noble."
+    },
+    {
+        "id": 170,
+        "proverb": "\u1eccba t\u00ed k\u00ec \u00ed f\u1eb9\u0301 gba \u00ecm\u1ecd\u0300r\u00e0n, ir\u00fa w\u1ecdn k\u00ec \u00ed p\u1eb9\u0301 fi \u1eb9s\u1eb9\u0300 k\u1ecd.",
+        "translation": "Any king who despises counsels, hardly takes long before stumbling.",
+        "wisdom": "It's smart to be open to and treasure good counsels: those who spurn them needlessly expose themselves to avoidable errors."
+    },
+    {
+        "id": 171,
+        "proverb": "K\u00ec \u00ed \u1e63e gbogbo aj\u00e1 t\u00f3 b\u00e1 \u0144gb\u00f3'ni l\u1ecd\u0301j\u00e0, la \u0144d\u00e1 l\u00f3h\u00f9n.",
+        "translation": "It's not all the dogs that bark at one at the marketplace that one responds to.",
+        "wisdom": "Stay focused: ignore distractions; not all issues should get our attention."
+    },
+    {
+        "id": 172,
+        "proverb": "\u1eccl\u1ecd\u0301run \u00f2 f\u1eb9\u0301 ir\u1ecd\u0301; \u1ecdm\u1ecd \u00e8y\u00e0n \u00f2 f\u1eb9\u0301 \u00f2dodo; b\u1eb9\u0301\u1eb9\u0300 l\u1ecd\u0300r\u1ecd\u0300 \u00f2 p\u00e9 m\u1eb9\u0301ta.",
+        "translation": "God hates lies; man hates truths; yet there is no third option in a discourse.",
+        "wisdom": "[It is better to always stick with the truth, even when there are no easy options.]"
+    },
+    {
+        "id": 173,
+        "proverb": "B\u00ed \u1eb9\u0300d\u00e1 b\u00e1 f\u1eb9\u0301 gba \u00e0w\u00ecn \u1eb9\u0300b\u00e0, ni w\u1ecd\u0301n m\u00e1a \u0144\u1e63e oj\u00fa \u00e0\u00e1n\u00fa; t\u00ed w\u1ecd\u0301n b\u00e1 y\u00f3 t\u00e1n, w\u1ecd\u0301n \u00e1 di \u1ecdk\u1ecd ol\u00fawa w\u1ecdn.",
+        "translation": "People present a facade of humility when seeking favour, but easily lord it over their benefactors, once satisfied.",
+        "wisdom": "Be perceptive; things are often not as they appear."
+    },
+    {
+        "id": 174,
+        "proverb": "\u1eccw\u1ecd\u0301 \u1ecdl\u1ecd\u0301w\u1ecd\u0301 \u00f2 l\u00e8 y\u00f3 \u1eb9nu \u1eb9l\u1eb9\u0301nu.",
+        "translation": "Never expect the hands of someone else to feed you to satisfaction.",
+        "wisdom": "Depend less, possibly not at all, on anyone: go catch your own fish."
+    },
+    {
+        "id": 175,
+        "proverb": "J\u1eb9\u0301 k\u00ed \u0144f\u00ecd\u00ed h\u1eb9\u1eb9\u0301, ni \u00e0lej\u00f2 fi \u0144ti on\u00edl\u00e9 s\u00f3de.",
+        "translation": "Let me just hang in here, is how the guest takes over the house from the host. ",
+        "wisdom": "Think well about that inch you want to give, it may well become a mile: be perceptive, be circumspect."
+    },
+    {
+        "id": 176,
+        "proverb": "\u00c0 ti gb\u00e9 \u00ecy\u00e0w\u00f3 \u00f2 t\u00f3\u00f3 p\u1ecd\u0301n; ow\u00f3 \u1ecdb\u1eb9\u0300 l\u00f3 \u1e63\u00f2ro.",
+        "translation": "Getting married is not an issue; meeting the marriage responsibility is the tough nut.",
+        "wisdom": "Look before you leap; think well before you act; it's easy to start some things, but tough to sustain it."
+    },
+    {
+        "id": 177,
+        "proverb": "\u00c0gb\u1eb9\u0300 t\u00ed k\u00f2k\u00f3 \u1eb9\u0300 y\u00e8, k\u00ec \u00ed \u1e63e m\u00edm\u1ecd\u0300 \u1ecd\u0301 \u1e63e \u1eb9\u0300, b\u00edk\u00f2\u1e63e El\u00e9d\u00f9\u00e0.",
+        "translation": "A farmer with a thriving cocoa farm owes this not to his or her effort, but to God.",
+        "wisdom": "There is no self-made person: we are all God-made:; we must remain small in our very own eyes; we must be ever so modest."
+    },
+    {
+        "id": 178,
+        "proverb": "K\u00e1 d\u00fap\u1eb9\u0301 l\u1ecd\u0301w\u1ecd\u0301 \u1ecdr\u00f9n t\u00f3 gb\u00e9 or\u00ed d\u00far\u00f3; \u1ecd\u0300p\u1ecd\u0300 \u1eb9ran l\u00f3 s\u00fan m\u1ecd\u0301 or\u00ed t\u00ed \u00f2 \u1e63e n\u01f9kankan.",
+        "translation": "W\u1eb9 ought to be thankful to the neck for supporting the head; many tissues are close to it, yet do nothing.",
+        "wisdom": "Be thankful, even for small favours."
+    },
+    {
+        "id": 179,
+        "proverb": "A k\u00ec \u00ed fura s\u00ed \u1eb9ni t\u00ed a \u0144b\u00e1 r\u00ecn; \u1eb9ni t\u00ed a b\u00e1 \u0144fura s\u00ed, a k\u00ec \u00ed b\u00e1 ir\u00fa w\u1ecdn r\u00ecn.",
+        "translation": "Do not be suspicious of those you associate with; those you'd be suspicious of, should not be your close associates.",
+        "wisdom": "Build trust; avoid paranoia; be positive; be forward-looking."
+    },
+    {
+        "id": 180,
+        "proverb": "T\u00f3 b\u00e1 k\u00f9 d\u00ed\u1eb9\u0300 k\u00ed \u1ecdm\u1ecd ol\u00f3ore j\u00ecn s\u00ed k\u00f2t\u00f2, m\u00e0n\u00e0m\u00e1n\u00e1 \u00e1 \u1e63i\u1e63\u1eb9\u0301 \u00ecm\u1ecd\u0301l\u1eb9\u0300 f\u00fan un.",
+        "translation": "Just before a kind person would stumble into a ditch (in darkness), the lightning would light up his or her path to save the day.",
+        "wisdom": "Kindness pays: it's good to be good; kind acts are never lost."
+    },
+    {
+        "id": 181,
+        "proverb": "Ap\u1eb9\u0301k\u00f3t\u00f3j\u1eb9un k\u00f2 n\u00ed j\u1eb9 b\u00e0j\u1eb9\u0301.",
+        "translation": "The one who tarries to eat won't necessarily eat a lousy meal.",
+        "wisdom": "Delay is not necessarily denial; often delays imply the perfection of the object hoped for; keep hope alive: it is not over yet."
+    },
+    {
+        "id": 182,
+        "proverb": "Ohun t\u00ed a b\u00e1 b\u00f2, l\u00f3 \u0144n\u00edy\u00ec.",
+        "translation": "Whatever is covered up (or not easily accessible) is what is respected and honoured.",
+        "wisdom": "Familiarity breeds contempt: whatever is easily available typically loses value and worth."
+    },
+    {
+        "id": 183,
+        "proverb": "B\u00ed a k\u00f2 b\u00e1 d\u1eb9\u0301kun \u00ecgb\u00ecy\u00e0nj\u00fa, b\u00f3p\u1eb9\u0301 b\u00f3y\u00e1 akitiyan \u00e1 d\u00f3pin l\u1ecd\u0301j\u1ecd\u0301 kan.",
+        "translation": "If one won't give up trying, one's hustling will one day come to an end.",
+        "wisdom": "Never give up, never quit; if we won't quit, we will win eventually."
+    },
+    {
+        "id": 184,
+        "proverb": "Ad\u00e1niw\u00e1y\u00e8 \u00f2 gb\u00e0gb\u00e9 \u1eb9n\u00eckan; \u00e0\u00ecm\u00e0s\u00eck\u00f2 l\u00f3 \u0144d\u00e0\u00e0m\u00fa \u1eb9\u0300d\u00e1.",
+        "translation": "God has not forgotten anyone; ignorance of divine timing is what makes us fret.",
+        "wisdom": "Keep hope alive; hang on there: the best is yet to come."
+    },
+    {
+        "id": 185,
+        "proverb": "\u00d2j\u00f2 t\u00f3 r\u1ecd\u0300 s\u00ed ew\u00faro, n\u00e1\u00e0 l\u00f3 r\u1ecd\u0300 s\u00ed \u00ecr\u00e8k\u00e9.",
+        "translation": "The same rain that fell on the bitter-leaf, fell on the sugarcane (yet bitter-leaf is bitter while sugarcane remains sweet.)",
+        "wisdom": "Our reactions tell of who we really are deep down; bitter or vengeful responses are by choice."
+    },
+    {
+        "id": 186,
+        "proverb": "\u00c0gb\u1eb9\u0300 t\u00f3 j\u1eb9un y\u00f3 t\u00f3 f\u1ecd\u0301 ak\u00e8r\u00e8gb\u00e8, ti gb\u00e0gb\u00e9 p\u00e9 \u1ecdj\u1ecd\u0301 \u00f2\u01f9gb\u1eb9 \u1e63\u00ec \u0144b\u1ecd\u0300.",
+        "translation": "The farmer who ate, had his fill, and broke the water gourd has forgotten that days of thirst are ahead.",
+        "wisdom": "Be strategic: think ahead; never slam the door on your way out: you may need it opened in future."
+    },
+    {
+        "id": 187,
+        "proverb": "O\u00f2 \u1e63\u00e1 igi l\u1ecd\u0301gb\u1eb9\u0301, o\u00f2 ta \u00f2g\u00f9r\u1ecd\u0300 l\u1ecdf\u00e0, o d\u00e9 \u00ecd\u00ed \u1ecd\u0300p\u1eb9, o \u0144gb\u1eb9\u0301nu s'\u00f3k\u00e8; \u1e63\u00e9 \u1ecd\u0300f\u1eb9\u0301 l\u00f3 m\u00e1a \u0144ro ni?",
+        "translation": "You neither hacked a palm nor stabbed a raffia, yet you opened up your mouth under a palm for wine; does it drip freely?",
+        "wisdom": "No free lunch; take responsibility; pay the price."
+    },
+    {
+        "id": 188,
+        "proverb": "\u00c0\u00ecd\u00fap\u1eb9\u0301 oore \u00e0n\u00e1 a m\u00e1a m\u00fa oore s\u00fa'ni \u00ed \u1e63e.",
+        "translation": "Lack of gratitude for yesterday's kindness does make future acts of kindness tiresome.",
+        "wisdom": "Attitude of gratitude is it; take nothing for granted: whatever is taken for granted diminishes; whatever is appreciated increases."
+    },
+    {
+        "id": 189,
+        "proverb": "A k\u00ec \u00ed m\u1ecd iy\u00ec w\u00far\u00e0 t\u00ed k\u00f2 b\u00e1 s\u1ecdn\u00f9.",
+        "translation": "A piece of gold (ornament) is seldom appreciated until it gets lost.",
+        "wisdom": "We seldom appreciate what we have, until we lose it; the available is easily taken for granted."
+    },
+    {
+        "id": 190,
+        "proverb": "Et\u00ed m\u1eb9\u0301ta \u00f2 y\u1eb9 or\u00ed; \u00e8\u00e8y\u00e0n m\u00e9\u0323ta \u00f2 l\u00e8 d\u00far\u00f3 n\u00ed m\u00e9j\u00ec-m\u00e9j\u00ec.",
+        "translation": "Three ears do not suit the head; three people cannot stand in groups of twos.",
+        "wisdom": "There is always a right and wrong way to do anything: focus on the right way.]"
+    },
+    {
+        "id": 191,
+        "proverb": "\u1eb8ni t\u00ed a  \u0144b\u00e1 n\u00e1'j\u00e0 la \u0144w\u00f2 a k\u00ec \u00ed wo ariwo \u1ecdj\u00e0.",
+        "translation": "W\u1eb9 should be focused on the person we are trading with and not the din and bustle in the market.",
+        "wisdom": "Be focused; shun distractions."
+    },
+    {
+        "id": 192,
+        "proverb": "\u1eb8ni t\u00f3 b\u00e1 n\u00ed k\u00ed \u1ecd\u0300r\u1eb9\u0301 \u00f2un m\u00e1 j\u1ecdba ni k\u00f2 n\u00ed l\u1ecd\u0300r\u1eb9\u0301 \u1ecdba.",
+        "translation": "Whoever blocks his friend from becoming a king won't have a king as a friend.,",
+        "wisdom": "Foster goodness: those plotting evil for others often share in the evil results; we reap whatever we sow."
+    },
+    {
+        "id": 193,
+        "proverb": "\u00d2\u0323n\u00e0 kan \u00f2 w\u1ecd \u1ecdj\u00e0.",
+        "translation": "Not just one route leads to the market.",
+        "wisdom": "Alternative approaches exist; there are many ways to achieve an end; don't be fixated on one."
+    },
+    {
+        "id": 194,
+        "proverb": "Oj\u00fa t\u00ed k\u00f2 r\u00ed y\u00e0nn\u00e0 y\u00e1nn\u00e1 in\u00e1, y\u1eb9\u0300r\u1eb9\u0300 y\u1eb9r\u1eb9 o\u00f2r\u00f9n, k\u00ec \u00ed r\u00ed y\u00ecnd\u00ecn yindin id\u1eb9.",
+        "translation": "A pair of eyes that won't endure the fiery flames of fire, the searing glare of the sun, can't hope to enjoy the glittering beauty of brass.",
+        "wisdom": "No pain, no gain; no guts, no glory."
+    },
+    {
+        "id": 195,
+        "proverb": "T\u00ed \u00ec\u1e63\u1eb9\u0301 \u00f2 b\u00e1 j\u1eb9\u0301 k\u00e1 s\u1ecd \u00f2dodo, \u00e0\u00ec\u1e63\u00f2dodo k\u00f2 n\u00ed j\u1eb9\u0301 k\u00e1 b\u1ecd\u0301 l\u1ecd\u0301w\u1ecd\u0301 \u00ec\u1e63\u1eb9\u0301.",
+        "translation": "If fear of poverty makes us lie, lying will keep us entrenched in poverty, as well. ",
+        "wisdom": "Honesty pays; dishonest lifestyle does exact hefty fees, at the end."
+    },
+    {
+        "id": 196,
+        "proverb": "Ik\u00fa f\u1eb9\u0301 pa al\u00e1pat\u00e0 \u00f3 \u0144k\u00edgbe; \u1ecdm\u1ecd \u1eb9ranko t\u00f3 ti d\u00e1 l\u00f3r\u00f3 \u0144k\u1ecd\u0301?",
+        "translation": "Death stalks the butcher and he screams; what about the animals he's butchered?",
+        "wisdom": "Exact from no one what you are unwilling to impose on yourself; be fair and considerate."
+    },
+    {
+        "id": 197,
+        "proverb": "A k\u00ec \u00ed s\u1ecd \u00f2k\u00f2 s\u00ed \u1eb9y\u1eb9 t\u00f3 \u0144w\u00e1 \u1ecd\u0300n\u00e0 \u00e0ti f\u00f2.",
+        "translation": "Do not throw stones at a bird that seeks to fly away.",
+        "wisdom": "Act in wisdom: do not pre-empt or worsen an already deplorable situation."
+    },
+    {
+        "id": 198,
+        "proverb": "B\u00f3 ti w\u00f9 k\u00ed oj\u00fa kan t\u00f3bi t\u00f3, oj\u00fa m\u00e9j\u00ec s\u00e0n ju oj\u00fa kan l\u1ecd.",
+        "translation": "No matter how big an eye is, two eyes are better than one.",
+        "wisdom": "Team effort is superior."
+    },
+    {
+        "id": 199,
+        "proverb": "B\u00e1a g\u00fan iy\u00e1n, t\u00e1a ro \u1ecdk\u00e0 f\u00fan k\u00f2f\u1eb9\u0301k\u00f2gb\u00e0, k\u00f2 n\u00ed f\u1eb9\u0301, k\u00f2 n\u00ed gb\u00e0, n\u00e1\u00e0 ni.",
+        "translation": "Even if you pound yam and prepare yam flour meal for a contentious person, he or she will yet remain contentious.",
+        "wisdom": "Be forward-looking, be positive; do your best and keep moving."
+    },
+    {
+        "id": 200,
+        "proverb": "B\u00ed in\u00fa b\u00e1 b\u00ed baba t\u00f3 b\u00e1 gb\u00e9 \u1ecdm\u1ecd \u1eb9\u0300 j\u00f9 s\u00ed in\u00fa \u00e8\u00e8r\u00f9n, b\u00ed in\u00fa \u1eb9\u0300 b\u00e1 r\u1ecd\u0300, in\u00fa \u00e8\u00e8r\u00f9n l\u00e8 m\u00e1 r\u1ecd\u0300.",
+        "translation": "If a father gets so angry as to throw his child into a raid of army ants, by the time he calms down, the ants may not be.      ",
+        "wisdom": "Don't be hasty in anger: calm down; avoid rashness."
+    },
+    {
+        "id": 201,
+        "proverb": "A k\u00ec \u00ed fi \u1eb9\u0300t\u1eb9\u0300 s\u00edl\u1eb9\u0300 pa l\u00e0p\u00e1l\u00e0p\u00e1.",
+        "translation": "Do not leave leprosy unattended while preoccupied with treating ringworm.",
+        "wisdom": "Think perceptively and strategically: don't lose sight of the forest for the trees: look at the bigger picture; things are often more than they seem."
+    },
+    {
+        "id": 202,
+        "proverb": "\u00c0m\u00f3j\u00fak\u00far\u00f2 ni \u00ed m\u00fa \u1eb9\u0300m\u00ed \u00ecf\u1eb9\u0301 g\u00f9n.",
+        "translation": "Willingness to overlook is what makes for an enduring loving relationship.",
+        "wisdom": "If it is wrong, love will not see it; tolerance is crucial."
+    },
+    {
+        "id": 203,
+        "proverb": ".\n\n\u1eb8ni t\u00f3 \u0144l\u00e9 n\u01f9kan n\u00edw\u00e1j\u00fa, \u0144fi \u00e0w\u1ecdn n\u01f9kan m\u00edr\u00e0n s\u1eb9\u0301h\u00ecn.\n\nTranslation:\nWhoever is pursuing something ahead, is actually leaving some other things behind. I \n\nWisdom:\nThere's always a price tag: we must let go of what is behind, if we want to lay hold of what is ahead.",
+        "translation": "",
+        "wisdom": ""
+    },
+    {
+        "id": 204,
+        "proverb": "\u00c8y\u00ed w\u00f9 m\u00ed, \u00f2 w\u00f9 \u1ecd\u0301, l\u1ecdm\u1ecd \u00ecy\u00e1 m\u00e9j\u00ec \u1e63e \u0144f\u1eb9\u0301 \u00ecy\u00e0w\u00f3 \u1ecd\u0300t\u1ecd\u0300\u1ecd\u0300t\u1ecd\u0300.",
+        "translation": "What appeals to me does not necessarily appeal to you is the reason two maternal brothers have different wives.",
+        "wisdom": "Different strokes for different folks; people are entitled to their choices: live and let live."
+    },
+    {
+        "id": 205,
+        "proverb": "B\u00ed afo\u0323\u0301j\u00fa b\u00e1 l\u00f3un y\u00f3\u00f2 fo\u0323\u0301'ni l\u00f3j\u00fa, \u00f3 y\u1eb9 k\u00e1 fura, n\u00edtor\u00ed t\u00ed k\u00f2 b\u00e1 m\u00fa n\u01f9kan lo\u0323\u0301wo\u0323\u0301, \u00f3 l\u00e8 t\u1eb9 n\u01f9kan mo\u0323\u0301l\u1eb9\u0300.",
+        "translation": "If a blind man threatens to make you blind, be wary; if he has nothing in his hands, he may have something under his feet",
+        "wisdom": "Don't be presumptuous; underestimate no one."
+    },
+    {
+        "id": 206,
+        "proverb": "\u00d2r\u00f2m\u1ecdad\u00ecy\u1eb9 \u0144b\u00e1 \u00e0\u1e63\u00e1 \u1e63er\u00e9, \u00f3 r\u00f2 p\u00e9 \u1eb9y\u1eb9 oko l\u00e1s\u00e1n ni.",
+        "translation": "The chick gullibly plays with the hawk believing it to be an ordinary bird.",
+        "wisdom": "Naivety can be risky, if not fatally costly."
+    },
+    {
+        "id": 207,
+        "proverb": "\u1eccgbo\u0323\u0301n ju agb\u00e1ra l\u1ecd.",
+        "translation": "Wisdom is better than strength.",
+        "wisdom": "Pursue wisdom."
+    },
+    {
+        "id": 208,
+        "proverb": "\u1e62i\u1e63\u1eb9\u0301 \u1e63i\u1e63\u1eb9\u0301 \u00f2 g\u1ecd\u0300, \u00f3 f\u1eb9\u0301 j\u00e0re \u00ec\u1e63\u1eb9\u0301 ni; \u1eb9ni t\u00f3 k\u1ecd\u0300 t\u00ed \u00f2 \u1e63i\u1e63\u1eb9\u0301 f\u1eb9\u0301 yan \u00ec\u1e63\u1eb9\u0301 l\u00e1\u00e0y\u00f2 ni.",
+        "translation": "The diligent isn't stupid, he or she simply wants to defeat poverty; the person who refuses to work, really seeks to partner with poverty.",
+        "wisdom": "Diligence is a choice: choose right."
+    },
+    {
+        "id": 209,
+        "proverb": "\u00c8\u00e9f\u00edn ni \u00ecw\u00e0; k\u00f2 \u1e63e\u00e9 fi pam\u1ecd\u0301.",
+        "translation": "Character is like smoke: it cannot be covered up.",
+        "wisdom": "We cannot pretend to be who we are not for very long."
+    },
+    {
+        "id": 210,
+        "proverb": "B\u00e0t\u00e0 or\u00ed \u00e0k\u00ect\u00e0n n\u00e1\u00e0 re \u00f2de \u00ecy\u00e0w\u00f3 r\u00ed.",
+        "translation": "Those pair of shoes on the refuse dump was once worn to a wedding.",
+        "wisdom": "Change is inevitable: a season must need go and another must need come; nothing lasts forever."
+    },
+    {
+        "id": 211,
+        "proverb": "\u00c0d\u00e0b\u00e0 \u00f2 n\u00e1\u00e1n\u00ed \u00e0 \u0144k\u00f9n'gb\u1eb9\u0301; p\u00e1p\u00e1 \u0144j\u00f3 \u1eb9y\u1eb9 oko f\u00f2 l\u1ecd.",
+        "translation": "The dove is unmoved by the bush being set on fire; once on fire, it simply flies away.",
+        "wisdom": "Be strategic; in every situation, always have an assured plan B: it engenders calm in the midst of a storm."
+    },
+    {
+        "id": 212,
+        "proverb": "A k\u00ec \u00ed d\u00e1m\u1ecd\u0300nr\u00e0n \u00e0ti t\u00e0'k\u00ect\u00ec l\u00e1gb\u00e0l\u00e1 \u1ecd\u0300b\u1ecd, n\u00edtor\u00ed \u1ecd\u0300b\u1ecd f\u00fanra'ra r\u1eb9\u0300, \u1ecdba \u00f2k\u00ect\u00ec ni.",
+        "translation": "Never toy with the idea of somersaulting in the vicinity of a monkey: monkeys themselves, are experts at somersaulting.",
+        "wisdom": "Be modest; don't make a needless show of your ignorance."
+    },
+    {
+        "id": 213,
+        "proverb": "\u1eb8ni a f\u1eb9\u0301 la m\u1ecd\u0300, a \u00f2 m\u1ecd \u1eb9ni t\u00f3 f\u1eb9\u0301'ni.",
+        "translation": "You do know who you love for sure, but you cannot be certain of who really loves you.",
+        "wisdom": "Be perceptive; things are often not as they appear."
+    },
+    {
+        "id": 214,
+        "proverb": "K\u00f2 s\u00ed b\u00ed \u00e0t\u00f9p\u00e0 \u1e63e l\u00e8 l\u00e1gb\u00e1ra t\u00f3, k\u00f2 l\u00e8 r\u00edran r\u00ed \u00ecd\u00ed ara r\u1eb9\u0300.",
+        "translation": "No matter how strong a lamp is, it cannot light up it's base.",
+        "wisdom": "No matter how strong anyone is, he or she will always need the input of others; no one is wholly self-sufficient, nor indeed can be."
+    },
+    {
+        "id": 215,
+        "proverb": "Or\u00fak\u1ecd t\u00ed a b\u00e1 s\u1ecd aj\u00e1 \u1eb9ni l\u1ecdm\u1ecd ar\u00e1y\u00e9 \u0144b\u00e1 ni \u00ed p\u00e8\u00e9.",
+        "translation": "Whatever name one calls one's dog, that is the name others will call it as well.",
+        "wisdom": "Speak positively: words objectify themselves; never describe yourself or what you do in negative terms."
+    },
+    {
+        "id": 216,
+        "proverb": "Il\u1eb9\u0300 \u00e0\u00e1n\u00fa Ol\u00fawa k\u00ec \u00ed \u1e63\u00fa.",
+        "translation": "God's mercy never runs out.",
+        "wisdom": "No impossibility with God: He cannot be contained or cornered; keep hope alive."
+    },
+    {
+        "id": 217,
+        "proverb": "\u00c0b\u00e0t\u00e0 tak\u00e9t\u00e9 b\u00ed \u1eb9ni p\u00e9 k\u00f2 b\u00e1 od\u00f2 tan.",
+        "translation": "The marshy place keeps aloof as if it is unrelated to the river.",
+        "wisdom": "When the going gets tough, pretty few will stick with you: mentally prepare for this; everybody loves the winner, but when you lose, you are on your own."
+    }
+   
+]
