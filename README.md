@@ -27,6 +27,5 @@ Each proverb is represented by an object with the following properties:
 
 This JSON file can be used for:
 
-Learning Yoruba proverbs and their meanings.
-As a reference material for Yoruba language learners and enthusiasts.
-In Yoruba language education
+- Learning Yoruba proverbs and their meanings.
+- As a reference material for Yoruba language learners and enthusiasts.
