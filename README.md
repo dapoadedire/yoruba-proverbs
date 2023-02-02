@@ -29,3 +29,8 @@ This JSON file can be used for:
 
 - Learning Yoruba proverbs and their meanings.
 - As a reference material for Yoruba language learners and enthusiasts.
+
+## Source
+
+- [Yoruba Proverbs - Twitter](https://twitter.com/yoruba_proverbs)
+- [Yoruba Proverbs -Telegram](https://t.me/yoruba_proverbs)
